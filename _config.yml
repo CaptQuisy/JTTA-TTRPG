@@ -1,0 +1,8 @@
+title: Journey Through the Ages
+description: System Reference Document
+theme: jekyll-theme-cayman
+
+url: "https://CaptQuisy.github.io"
+baseurl: "/JTTA-TTRPG"
+
+markdown: kramdown

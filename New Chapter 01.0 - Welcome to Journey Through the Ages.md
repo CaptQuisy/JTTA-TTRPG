@@ -1,0 +1,92 @@
+# Adventures Grounded in Reality
+
+_Journey Through the Ages: A Roleplaying Game of Adventure in Any Era_ is a tabletop roleplaying game designed for exciting adventures in believable worlds. Characters may accomplish extraordinary feats, but they remain vulnerable to danger. Bullets are deadly, wounds matter, equipment has limits, and careful planning can mean the difference between success and disaster.
+
+The game emphasizes skill, teamwork, preparation, and meaningful choices. Whether the characters are investigating a mystery, surviving a battlefield, confronting dangerous criminals, or exploring distant worlds, their actions have consequences.
+
+The standard rules emphasize grounded action and cinematic realism rather than extraordinary powers. Individual campaigns may introduce supernatural mysteries, unusual creatures, or speculative technology while retaining the same underlying mechanics.
+
+## A Universal System for Realistic Adventures
+
+_Journey Through the Ages_ supports adventures across historical periods, modern settings, and believable science fiction using a common set of rules. Once players understand the system, they can explore different eras without learning an entirely new game.
+
+Possible settings include:
+
+- **The Age of Sail (1600s–1700s):** Pirates, privateers, explorers, and naval officers pursue fortune and adventure.
+- **The American Revolutionary War:** Soldiers, scouts, spies, and civilians undertake dangerous missions.
+- **The American Civil War:** Characters confront the dangers and moral challenges of a divided nation.
+- **The World Wars:** Soldiers, resistance fighters, medics, and intelligence agents struggle to survive.
+- **The 1920s and 1930s:** Pulp explorers, detectives, and adventurers uncover mysteries and confront criminal organizations.
+- **The Cold War:** Espionage, political intrigue, and covert operations test loyalty and judgment.
+- **The 1980s:** Action adventures, crime stories, survival horror, and mysteries place ordinary people in extraordinary danger.
+- **The Modern Day:** Investigators, emergency responders, military personnel, and civilians face contemporary challenges.
+- **The Near Future:** Artificial intelligence, cybercrime, drones, and emerging technologies reshape society.
+- **Humanity's Expansion into Space:** Crews explore spacecraft, orbital stations, and distant settlements where engineering, physics, and survival remain essential.
+
+Each setting introduces its own technology, equipment, dangers, and social circumstances, but all share the same foundation: capable people confronting difficult situations through skill, courage, and cooperation.
+
+## Built for Storytelling
+
+The rules support the story rather than replace it.
+
+Players are encouraged to think creatively, negotiate, investigate, use their surroundings, and solve problems without unnecessary conflict. Dice are used when the outcome of an action is uncertain and the consequences matter.
+
+The Game Master should reward sensible preparation, clever ideas, and believable solutions. Avoiding a dangerous confrontation can be as meaningful as winning one.
+
+Characters' choices shape the adventure, and success should never depend on following a single predetermined path.
+
+### The Game Master Is a Storyteller
+
+The Game Master (GM) describes the world, portrays Non-Player Characters (NPCs), introduces challenges, and determines the consequences of the characters' actions.
+
+The GM also interprets the rules, establishes appropriate Difficulties, and resolves uncertain situations fairly and consistently. Rather than directing the characters toward predetermined outcomes, the GM presents meaningful choices and allows the story to develop through player decisions.
+
+The GM and players work together to create an exciting adventure, even when their characters have opposing goals.
+
+### Heroes, Not Superheroes
+
+Characters are exceptional because of their training, experience, determination, and resourcefulness—not because they are invulnerable.
+
+A veteran soldier may hold off superior forces. A detective may uncover a conspiracy. A medic may save lives under fire. A pilot may land a damaged aircraft, while an engineer struggles to keep a failing spacecraft operational.
+
+These accomplishments matter because they are difficult and dangerous.
+
+The standard game assumes characters possess human capabilities, even when they demonstrate exceptional skill. Campaigns featuring supernatural or other extraordinary abilities may introduce additional rules appropriate to their settings.
+
+### Danger Has Consequences
+
+Violence is fast and unpredictable. Ammunition is limited, wounds can be debilitating, and medical treatment takes time.
+
+Success often depends on preparation, including gathering intelligence, choosing appropriate equipment, cooperating with allies, exploiting cover, and recognizing when retreat is the best option.
+
+The consequences of a character's decisions should remain meaningful, whether the outcome is victory, failure, injury, or survival against the odds.
+
+### Dice and the Game Master
+
+_Journey Through the Ages_ uses a **six-sided dice pool system**. When an action requires a roll, the player gathers several of six-sided dice (d6) based on the character's Attributes, Skills, and applicable modifiers.
+
+Each die showing a **5 or 6 counts as one success**. The player must obtain enough successes to meet the Difficulty established by the rules or the Game Master. A character's abilities and circumstances determine how many dice are rolled. Nine six-sided dice (9d6) are recommended for each player, providing enough dice for most situations.
+
+Unlike many tabletop roleplaying games, **the Game Master does not roll dice**.
+
+Instead, players make the rolls that determine the outcomes of their characters' actions and reactions. When a character attacks an enemy, the player rolls the appropriate Attack. When an enemy attacks a character, the player rolls Defense.
+
+The same principle applies to investigation, social interactions, stealth, survival, and other uncertain situations.
+
+The GM describes the circumstances, establishes the challenges, and determines the actions of NPCs and creatures. The players roll the dice to discover how successfully their characters respond.
+
+**Example:** A soldier attempts to sneak past an enemy guard. The GM determines the Difficulty based on the guard's alertness and the surrounding conditions. The player rolls the appropriate dice pool. Each 5 or 6 counts as one success. If the number of successes meets or exceeds the Difficulty, the soldier succeeds.
+
+The following chapters explain how characters are created, how dice pools are calculated, and how successes and failures are resolved.
+
+### Your Story Begins Here
+
+The worlds you explore will be dangerous. The people you meet will have their own ambitions. Your choices will shape the course of history—whether that history has already happened or has yet to be written among the stars.
+
+Gather your friends.
+
+Choose your era.
+
+Create your characters.
+
+And discover what happens when ordinary people are called upon to do extraordinary things.

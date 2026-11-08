@@ -3,7 +3,7 @@
   - [Home](/)
 
 - **Rules Reference**
-  - [Test](01.0-Test.md)
+  - [Welcome to Journey Through The Ages](01.0-Welcome-to-Journey-Throuh-The_ages.md)
   - [Character Creation](02.0 - Character Creation.md)
   - [Core Rules](04.0 - Core Rules.md)
   - [Combat](05.0 - Combat.md)

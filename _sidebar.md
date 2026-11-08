@@ -11,6 +11,7 @@
   - [Opponents](07.0 - Opponents.md)
   - [Combat Example](08.0 - Combat Example.md)
   - [Chases](09.0 - Chases.md)
+  - [stuff](test.md)
 
 - **Additional Information**
   - [Licensing](Credits & Legal.md)

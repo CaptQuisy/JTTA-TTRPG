@@ -14,7 +14,7 @@
   - [Character Advancement](02.8-Character-Advancement.md)
   - [Equipment & Wealth](03.0-Equipment-and-Wealth.md)
   - [Weapons](03.1-Weapons.md)
-  - [Armor & Protective Gear](03.2-Armor-and-Protective-Equipment.md)
+  - [Armor & Protective Equipment](03.2-Armor-and-Protective-Equipment.md)
   - [Adventuring Gear](03.3-Adventuring-Gear.md)
   - [Vehicles](03.4-Vehicles.md)
   - [Wealth & Acquiring Equipment](03.5-Wealth-and-Acquiring-Equipment.md)

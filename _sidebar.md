@@ -1,9 +1,9 @@
 
 - **Journey Through the Ages**
   - [Home](/)
-
-- **Rules Reference**
   - [Welcome to Journey Through The Ages](01.0-Welcome-to-Journey-Through-The-Ages.md)
+  - 
+- **Rules Reference**
   - [Character Creation](02.0-Character-Creation.md)
   - [Attributes](02.1-Attributes.md)
   - [Backgrounds](02.2-Backgrounds.md)

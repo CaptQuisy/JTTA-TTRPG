@@ -32,4 +32,4 @@
   - [Chases](09.0-Chases.md)
 
 - **Additional Information**
-  - [Licensing](Credits & Legal.md)
+  - [Licensing](Credits-and-Legal.md)

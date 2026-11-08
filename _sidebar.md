@@ -1,6 +1,5 @@
 
 - **Journey Through the Ages**
-  - [Home](/)
   - [Welcome to Journey Through The Ages](01.0-Welcome-to-Journey-Through-The-Ages.md)
   - 
 - **Rules Reference**

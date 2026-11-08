@@ -3,7 +3,7 @@
   - [Home](/)
 
 - **Rules Reference**
-  - [Test](Test.md)
+  - [Test](01.0-Test.md)
   - [Character Creation](02.0 - Character Creation.md)
   - [Core Rules](04.0 - Core Rules.md)
   - [Combat](05.0 - Combat.md)
@@ -11,7 +11,6 @@
   - [Opponents](07.0 - Opponents.md)
   - [Combat Example](08.0 - Combat Example.md)
   - [Chases](09.0 - Chases.md)
-  - [stuff](test.md)
 
 - **Additional Information**
   - [Licensing](Credits & Legal.md)

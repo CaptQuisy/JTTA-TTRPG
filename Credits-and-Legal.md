@@ -1,4 +1,4 @@
-## Copyright and Open License
+## Copyright and Open License <!-- {docsify-ignore} -->
 
 **Journey Through the Ages**  
 Copyright © 2026 Christopher Hanson. All rights reserved except as expressly licensed below.

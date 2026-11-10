@@ -12,7 +12,7 @@
   - [Character Descriptions](02.6-Character-Description.md)
   - [Wounds](02.7-Wounds.md)
   - [Character Advancement](02.8-Character-Advancement.md)
-  - [Equipment & Wealth](03.0-Equipment-and-Wealth.md)
+  - [Equipment](03.0-Equipment.md)
   - [Weapons](03.1-Weapons.md)
   - [Armor & Protective Equipment](03.2-Armor-and-Protective-Equipment.md)
   - [Adventuring Gear](03.3-Adventuring-Gear.md)

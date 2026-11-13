@@ -37,8 +37,8 @@
   - [Conditions](06.1-Conditions.md)
   - [Opponents](07.0-Opponents.md)
   - [Combat Example](08.0-Combat-Example.md)
-  - [Vehicle Combat](05.8-Vehicle-Combat.md)
-  - [Chases](09.0-Chases.md)
+  - [Vehicle Combat](09.0-Vehicle-Combat.md)
+  - [Chases](10.0-Chases.md)
 
 - **Additional Information**
   - [Licensing](Credits-and-Legal.md)

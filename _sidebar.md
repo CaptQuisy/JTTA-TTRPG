@@ -32,12 +32,12 @@
   - [Area Effects](05.5-Area-Effects.md)
   - [Other Combat Modifiers](05.6-Other-Combat-Modifiers.md)
   - [Character Defense](05.7-Character-Defense.md)
-  - [Vehicle Combat](05.8-Vehicle-Combat.md)
   - [Damage and Wounds](06.0-Damage-and-Wounds.md)
-  - [Conditions](06.1-Conditions.md)
   - [Rest & Healing](06.2-Rest-and-Healing.md)
+  - [Conditions](06.1-Conditions.md)
   - [Opponents](07.0-Opponents.md)
   - [Combat Example](08.0-Combat-Example.md)
+  - [Vehicle Combat](05.8-Vehicle-Combat.md)
   - [Chases](09.0-Chases.md)
 
 - **Additional Information**

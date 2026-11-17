@@ -35,11 +35,31 @@
 
 [Damage: Wound Location and Condition](Damage/06.0-Damage-and-Wounds.md#Wound-Location-and-Condition-Table)
 
+[Equipment: Armor Mand Special Attacks](Equipment/03.2-Armor-and-Protective-Equipment.md#Armor-and-Specail-Attacks)
+
+[Equipment: Armor Movement Penalties](Equipment/03.2-Armor-and-Protective-Equipment.md#Movement-Penalties)
+
+[Equipment: Armor Piercing](Equipment/03.1-Weapons.md#Armor-Piercing)
+
+[Equipment: Armor Profiles](Equipment/03.2-Armor-and-Protective-Equipment.md#Armor-Profiles)
+
+[Equipment: Special Weapons Effects](Equipment/03.1-Weapons.md#Special-Weapon-Effects)
+
+[Equipment: Weapon Quality](Equipment/03.1-Weapons.md#Weapon-Quality)
+
+[Equipment: Weapon Table](Equipment/03.1-Weapons.md#Weapon-Table)
+
 [Explosives: Placing](Combat/05.5-Area-Effects.md#Placing-an-Explosive)
 
 [Explosives: Power Levels](Combat/05.5-Area-Effects.md#Explosive-Power-Levels)
 
 [Explosives: Types](Combat/05.5-Area-Effects.md#Types-of-Ranged-Explosive)
+
+[Healing: Medical Facilities](Damage/06.2-Rest-and-Healing.md#Medical-Facility-Modifiers)
+
+[Healing: Medical Treatment](Damage/06.2-Rest-and-Healing.md#Medical-Treatment)
+
+[Healing: Recovery Period](Damage/06.2-Rest-and-Healing.md#Recovery-Period-Table)
 
 [Movement: Optional Range Bands](Combat/05.2-Movement-and-Positioning.md#Optional-Rule-Range-Band-Movement)
 

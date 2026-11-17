@@ -20,6 +20,7 @@
   - [Combat Example](Example/08.0-Combat-Example.md)
   - [Chases](Chases/10.0-Chases.md)
   - [Vehicles](Vehicles/03.4-Vehicles.md)
-      
+  - [Tables](Tables/Tables.md)
+          
 - **Additional Information**
   - [Licensing](Credits-and-Legal.md)

@@ -80,7 +80,7 @@
 
 [Equipment: Lists - Personal Goods](Equipment/03.6-Equipment-List.md#Personal-Goods)
 
-[Equipment: Lists - ESocial & Professional](Equipment/03.6-Equipment-List.md#Social-Professional-Equipment)
+[Equipment: Lists - Social & Professional](Equipment/03.6-Equipment-List.md#Social-Professional-Equipment)
 
 [Equipment: Lists - Survival](Equipment/03.6-Equipment-List.md#Survival-Equipment)
 

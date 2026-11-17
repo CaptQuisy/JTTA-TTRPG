@@ -16,6 +16,7 @@
   - [Vehicle Combat](Vehicles/09.0-Vehicle-Combat.md)
   - [Equipment](Equipment/03.0-Equipment.md)
   - [Vehicles](Vehicles/03.4-Vehicles.md)
-  
+  - [Tables](Tables/Tables.md)
+    
 - **Additional Information**
   - [Licensing](Credits-and-Legal.md)

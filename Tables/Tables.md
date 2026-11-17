@@ -50,7 +50,7 @@
 
 [Combat: Visibility - Smoke and Fog](Combat/05.6-Other-Combat-Modifiers.md#Smoke-and-Fog)
 
-[Combat: Weapon Handling](Combat/05.6-Other-Combat-Modifiers.md#Weapon-Handing)
+[Combat: Weapon Handling](Combat/05.6-Other-Combat-Modifiers.md#Weapon-Handling)
 
 [Damage: Randon Injury Location](Damage/06.0-Damage-and-Wounds.md#Random-Injury-Location-Optional)
 

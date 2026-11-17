@@ -1,3 +1,3 @@
 
-[Outnumbered Table](.../Combat/Close-Combat.md#Outnumbered-Examples)
+[Outnumbered Table](/Combat/Close-Combat.md#Outnumbered-Examples)
 

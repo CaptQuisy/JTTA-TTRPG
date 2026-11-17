@@ -3,7 +3,7 @@
   - [Welcome to Journey Through The Ages](01.0-Welcome-to-Journey-Through-The-Ages.md)
    
 - **Rules Reference**
-  - [Table List](Tables/Tables.md]
+  - [Table List](Tables/Tables.md)
     - [Outnumbered Table](Combat/05.3-Close-Combat.md#Outnumbered-Examples)
 
 

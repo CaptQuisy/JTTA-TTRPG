@@ -1,7 +1,7 @@
 
 - **Journey Through the Ages**
   - [Welcome to Journey Through The Ages](01.0-Welcome-to-Journey-Through-The-Ages.md)
-  - 
+   
 - **Rules Reference**
   - [Character Creation](Character/02.0-Character-Creation.md)
   - [Core Rules](Core/04.0-Core-Rules.md)

@@ -91,7 +91,17 @@
 
 [Movement: Rates](Combat/05.2-Movement-and-Positioning.md#Movement-Rates)
 
-[Opponents: Attack Ratings](Combat/05.7-Character-Defense.md#Attack-Rating-Table)
+[Opponents: Attack Ratings](Opponents/07.0-Opponents.md#Attack-Rating-Guidelines)
+
+[Opponents: Defense Ratings](Opponents/07.0-Opponents.md#Defense-Rating-Guidelines)
+
+[Opponents: Size](Opponents/07.0-Opponents.md#Opponent-Size-Table)
+
+[Opponents: Speed](Opponents/07.0-Opponents.md#Speed-Ratings)
+
+[Opponents: Statistics](Opponents/07.0-Opponents.md#Opponent-Statistics)
+
+[Opponents: Wound Profiles](Opponents/07.0-Opponents.md#Suggested-Wound-Profiles)
 
 [Skill Checks: % of Success Standard](Core/04.1-Push-Your-Luck.md#Standard-Roll-Chance-of-Meeting-Difficulty)
 
@@ -113,10 +123,31 @@
 
 [Skill Checks: Social Situation Modifiers](Core/04.3-Social-Encounters.md#Situation)
 
+[Vehicles: Durability](Vehicles/03.4-Vehicles.md#Sample-Vehicle-Durability)
 
+[Vehicles: Handling](Vehicles/03.4-Vehicles.md#Handling-Rating)
 
+[Vehicles: Profile](Vehicles/03.4-Vehicles.md#Vehicle-Profiles)
 
+[Vehicles: Speed](Vehicles/03.4-Vehicles.md#Speed-Rating)
 
+[Vehicles Combat: Attacker Collision Damage](Vehicles/09.0-Vehicle-Combat.md#Determining-Attacker-Collision-Damage)
+
+[Vehicles Combat: Close Attack Rating](Vehicles/09.0-Vehicle-Combat.md#Vehicle-Close-Combat-Attack-Ratings)
+
+[Vehicles Combat: Damage Effects](Vehicles/09.0-Vehicle-Combat.md#Vehicle-Damage-Effects-by-Severity)
+
+[Vehicles Combat: Damage Severity](Vehicles/09.0-Vehicle-Combat.md#Vehicle-Damage-Severity)
+
+[Vehicles Combat: Defense Rating](Vehicles/09.0-Vehicle-Combat.md#Vehicle-Defense-Ratings)
+
+[Vehicles Combat: Profiles](Vehicles/09.0-Vehicle-Combat.md#Vehicle-Combat-Profiles)
+
+[Vehicles Combat: Range](Vehicles/09.0-Vehicle-Combat.md#Vehicle-Combat-Range-Bands)
+
+[Vehicles Combat: Weapons](Vehicles/09.0-Vehicle-Combat.md#Sample-Vehicle-Ranged-Weapons)
+
+[Vehicles Combat: Weapon Damage](Vehicles/09.0-Vehicle-Combat.md#Vehicle-Weapon-Damage-Dice)
 
 
 

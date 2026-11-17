@@ -4,7 +4,7 @@
    
 - **Rules Reference**
 
-  - [Outnumbered Table](../Combat/05.3-Close-Combat.md#Outnumbered-Examples)
+  - [Outnumbered Table](Combat/05.3-Close-Combat.md#Outnumbered-Examples)
 
 
 --- 

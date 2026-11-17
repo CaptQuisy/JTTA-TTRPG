@@ -1,9 +1,11 @@
 - **Journey Through the Ages**
   - [Welcome to Journey Through The Ages](01.0-Welcome-to-Journey-Through-The-Ages.md)
-  - 
+ 
 - **Rules Reference**
   - [Vehicles](Vehicles/03.4-Vehicles.md)
   - [Vehicle Combat](Vehicle/09.0-Vehicle-Combat.md)
+ 
+  ---
 
   - [Character Creation](Character/02.0-Character-Creation.md)
   - [Core Rules](Core/04.0-Core-Rules.md)

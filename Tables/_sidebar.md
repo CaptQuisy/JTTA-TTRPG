@@ -4,9 +4,8 @@
    
 - **Rules Reference**
   - [Table List](Tables/Tables.md)
-    - [Outnumbered Table](Combat/05.3-Close-Combat.md#Outnumbered-Examples)
 
---- 
+---
     
   - [Character Creation](Character/02.0-Character-Creation.md)
   - [Core Rules](Core/04.0-Core-Rules.md)

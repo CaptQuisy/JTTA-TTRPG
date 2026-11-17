@@ -40,8 +40,6 @@
 
 [Combat: Rushed Attack Modifier](Combat/05.0-Combat.md#Rushed-Attacks)
 
-[Combat: Target Modifiers](Combat/05.4-Ranged-Attack.md#Target-Location-Modifiers)
-
 [Combat: Target Location Modifiers](Combat/05.4-Ranged-Attack.md#Target-Location-Modifiers)
 
 [Combat: Target Size Modifiers](Combat/05.4-Ranged-Attack.md#Target-Size-Modifiers)

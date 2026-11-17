@@ -16,6 +16,7 @@
   - [Combat Example](Example/08.0-Combat-Example.md)
   - [Chases](Chases/10.0-Chases.md)
   - [Equipment](Equipment/03.0-Equipment.md)
-
+  - [Vehicles](Vehicles/03.4-Vehicles.md)
+    
 - **Additional Information**
   - [Licensing](Credits-and-Legal.md)

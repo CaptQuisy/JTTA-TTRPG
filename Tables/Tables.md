@@ -134,7 +134,7 @@
 
 [Skill Checks: Saving Throw Difficulty](Core/04.2-Saving-Throws.md#Saving-Throw-Difficulty)
 
-[Skill Checks: Social Environment Modifiers](Core/04.3-Social-Encounters.md#Environemnt)
+[Skill Checks: Social Environment Modifiers](Core/04.3-Social-Encounters.md#Environment)
 
 [Skill Checks: Social Difficulty](Core/04.3-Social-Encounters.md#Social-Difficulty)
 

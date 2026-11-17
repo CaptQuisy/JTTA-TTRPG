@@ -30,7 +30,7 @@
 
 [Combat: Initiative Optional Results Table](Combat/05.1-Initiative-and-Surprise.md#Optional-Initiative-Results-Table)
 
-[Combat: Multiple Attack Modifiers](Combat/05.3-Close-Combat.md#Multiple-Close-Combat-Atacks)
+[Combat: Multiple Attack Modifiers](Combat/05.3-Close-Combat.md#Multiple-Close-Combat-Attacks)
 
 [Combat: Outnumbered Table](Combat/05.3-Close-Combat.md#Outnumbered-Examples)
 

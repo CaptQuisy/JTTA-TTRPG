@@ -58,7 +58,7 @@
 
 [Damage: Wound Location and Condition](Damage/06.0-Damage-and-Wounds.md#Wound-Location-and-Condition-Table)
 
-[Equipment: Armor Mand Special Attacks](Equipment/03.2-Armor-and-Protective-Equipment.md#Armor-and-Specail-Attacks)
+[Equipment: Armor and Special Attacks](Equipment/03.2-Armor-and-Protective-Equipment.md#Armor-and-Specail-Attacks)
 
 [Equipment: Armor Movement Penalties](Equipment/03.2-Armor-and-Protective-Equipment.md#Movement-Penalties)
 

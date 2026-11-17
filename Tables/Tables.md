@@ -35,7 +35,7 @@
 
 [Explosives: Types](Combat/05.5-Area-Effects.md#Types-of-Ranged-Explosive)
 
-[Movement: Optional Range Bands](Combat/05.2-Movement-and-Positioning.md#Optional-Rule:-Range-Band-Movement)
+[Movement: Optional Range Bands](Combat/05.2-Movement-and-Positioning.md#Optional-Rule\:-Range-Band-Movement)
 
 [Movement: Rates](Combat/05.2-Movement-and-Positioning.md#Movement-Rates)
 
@@ -45,9 +45,9 @@
 
 [Skill Checks: Difficulty Levels](Core/04.0-Core-Rules.md#Difficulty-Levels)
 
-[Skill Checks: % of Success Standard](Core/04.1-Push-Your-Luck.md#Standard-Roll:-Chance-of-Meeting-Difficulty)
+[Skill Checks: % of Success Standard](Core/04.1-Push-Your-Luck.md#Standard-Roll\:-Chance-of-Meeting-Difficulty)
 
-[Skill Checks: % of Success Push Your Luck](Core/04.1-Push-Your-Luck.md#Push-Your-Luck:-Chance-of-Meeting-Difficulty)
+[Skill Checks: % of Success Push Your Luck](Core/04.1-Push-Your-Luck.md#Push-Your-Luck\:-Chance-of-Meeting-Difficulty)
 
 
 

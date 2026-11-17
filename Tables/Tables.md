@@ -68,7 +68,7 @@
 
 [Equipment: Cost Categories](Equipment/03.5-Wealth-and-Acquiring-Equipment.md#Cost-Categories)
 
-[Equipment: Lists - Armor and Protection](Equipment/03.6-Equipment-List.md#Armor-\&-Protection)
+[Equipment: Lists - Armor and Protection](Equipment/03.6-Equipment-List.md#Armor-and-Protection)
 
 [Equipment: Lists - Communications](Equipment/03.6-Equipment-List.md#Communications)
 

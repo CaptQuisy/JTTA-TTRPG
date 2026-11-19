@@ -15,10 +15,15 @@
 
 Attributes:
 STR: 2
+
 DEX: 2
+
 RES: 2
+
 INT: 3
+
 ACT: 2
+
 PRS: 3
 
 Background: Scholar (Engineering)
@@ -30,20 +35,35 @@ Athletics 1, Ranged Combat 1, Survival 1
 Personal Skills: 7
 
 Basic Skills:(13 points)
+
 Academics (INT): 2
+
 Athletics (STR): 2
+
 Close Combat (STR): 1
+
 Crafting (DEX or INT): 1
+
 Finesse (DEX): 1
+
 Influence (PRS): 3
+
 Investigation (INT): 2
+
 Ranged Combat (DEX): 3
+
 Medicine (INT): 1
+
 Perception (ACT): 2
+
 Performance (PRS): 1
+
 Stealth (DEX): 2
+
 Survival (ACT or INT): 2
+
 Technology (INT): 2 
+
 Vehicle (DEX or INT): 1 
 
 Wounds:

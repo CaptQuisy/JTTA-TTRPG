@@ -2,6 +2,7 @@
   - [Welcome to Journey Through The Ages](01.0-Welcome-to-Journey-Through-The-Ages.md)
    
 - **Adventures**
+  - [Broken Causeway Summary](Adventures/WW2/BrokenCausewaySummary.md)
   - [WW2 D-Day Broken Causeway](Adventures/WW2/WW2-D-Day.md)
   - [Ww2 Soldiers](Adventures/WW2/WW2-Soldiers.md)
 

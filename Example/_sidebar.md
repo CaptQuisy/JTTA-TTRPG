@@ -12,6 +12,7 @@
   - [Combat](Combat/05.0-Combat.md)
   - [Damage and Wounds](Damage/06.0-Damage-and-Wounds.md)
   - [Opponents](Opponents/07.0-Opponents.md)
+  - [Vehicle Combat](Vehicles/09.0-Vehicle-Combat.md)
   - [Chases](Chases/10.0-Chases.md)
   - [Equipment](Equipment/03.0-Equipment.md)
   - [Vehicles](Vehicles/03.4-Vehicles.md)

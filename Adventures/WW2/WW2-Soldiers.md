@@ -10,7 +10,8 @@
 
 2nd Lt. James “Jimmy” Caldwell
 
-![[2nd Lt James Jimmy Caldwell 2.png]]
+![2nd Lt James "Jimmy" Caldwell](Images/Characters/2ndLtJamesJimmyCaldwell.png)
+
 
 Attributes:
 STR: 2
@@ -69,7 +70,7 @@ Knife +3
 
 Pfc. Harold “Sparks” Levine
 
-![[Pfc. Harold Sparks Levine_A2.png]]
+![Pfc. Harold “Sparks” Levine](Images/Characters/PfcHaroldSparksLevine.png)
 
 Attributes:
 STR: 2
@@ -127,7 +128,8 @@ Small toolset
 
 T/5 William “Doc” Hensley
 
-![[T 5 William Doc Hensley_A4.png]]
+![T/5 William “Doc” Hensley](Images/Characters/T5WilliamDocHensley.png)
+
 
 Attributes:
 STR: 2
@@ -183,7 +185,7 @@ Extra Canteen
 
 Cpl. Daniel “Hawk” Yazzie
 
-![[Cpl. Daniel Hawk Yazzie_A2.png]]
+![Cpl. Daniel “Hawk” Yazzie](Images/Characters/CplDanielHawkYazzie.png)
 
 Attributes:
 STR: 2
@@ -237,7 +239,7 @@ Knife +3
 
 Pfc. Leonard “Big Lenny” Kowalski
 
-![[Pfc. Leonard Big Lenny Kowlski_A2.png]]
+![Pfc. Leonard “Big Lenny” Kowalski](Images/Characters/PfcLeonardBigLennyKowalski.png)
 
 Attributes:
 STR: 4
@@ -292,7 +294,8 @@ Knife +3
 
 T/4 Joseph “Joe” Caruso
 
-![[T 4 Joseph Joe Caruso_A3.png]]
+![T/4 Joseph “Joe” Caruso](Images/Characters/T4JosephJoeCaruso.png)
+
 
 Attributes:
 STR: 3
@@ -350,7 +353,7 @@ Tool repair kit
 
 Captain Robert “Bob” Ellison
 
-![[Captain Robert Bob Ellison_A3.png]]
+![Captain Robert “Bob” Ellison](Images/Characters/CaptainRobertBobEllison.png)
 
 Attributes:
 STR: 2
@@ -407,7 +410,7 @@ Knife +3
 
 Sgt. Frank “Red” Donnelly
 
-![[Sgt. Frank Red Donnelly_A2.png]]
+![Sgt. Frank “Red” Donnelly](Images/Characters/SgtFrankRedDonnelly.png)
 
 
 Attributes:
@@ -465,7 +468,7 @@ Knife +3
 
 Pfc. Thomas “Tommy” Baker
 
-![[Pfc. Thomas Tommy Baker_A2.png]]
+![Pfc. Thomas “Tommy” Baker](Images/Characters/PfcThomasTommyBaker.png)
 
 
 Attributes:
@@ -521,7 +524,7 @@ Bayonet +3
 
 Pfc. George Ramirez
 
-![[Pfc. George Ramirez_A2.png]]
+![Pfc. George Ramirez](Images/Characters/PfcGeorgeRamirez.png)
 
 
 Attributes:
@@ -576,7 +579,7 @@ Bayonet +3
 
 Pfc. Edward “Eddie” Clarke
 
-![[Pfc. Edward Eddie Clarke_A2.png]]
+![Pfc. Edward “Eddie” Clarke](Images/Characters/PfcEdwardEddieClarke.png)
 
 
 Attributes:

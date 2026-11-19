@@ -20,7 +20,7 @@ The SRD is maintained as a living reference and may be updated as the game conti
 
 You can access this SRD via HTML at https://captquisy.github.io/JTTA-TTRPG/#
 
-Or at (https://github.com/CaptQuisy/JTTA-TTRPG)
+Or at https://github.com/CaptQuisy/JTTA-TTRPG
 
 ## Open Gaming License
 

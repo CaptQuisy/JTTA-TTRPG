@@ -3,7 +3,6 @@
   - [Welcome to Journey Through The Ages](01.0-Welcome-to-Journey-Through-The-Ages.md)
    
 - **Rules Reference**
-  - [Table List](Tables/Tables.md)
   - [Character Tables](Tables/Tables-Character.md)
   - [Skill Checks Tables](Tables/Tables-Skill-Checks.md)
   - [Combat Tables](Tables/Tables-Combat.md)

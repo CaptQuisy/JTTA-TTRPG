@@ -12,14 +12,15 @@
 
 ![2nd Lt James "Jimmy" Caldwell](Images/Characters/2ndLtJamesJimmyCaldwell.png)
 
+Level 2
 
 Attributes:
-STR: 2 \
-DEX: 2 \
-RES: 2 \
-INT: 3 \
-ACT: 2 \
-PRS: 3 \
+STR: 2  
+DEX: 2  
+RES: 2  
+INT: 3  
+ACT: 2  
+PRS: 3  
 
 Background: Scholar (Engineering)
 Academics 1, Investigation 1, Technology 1
@@ -29,37 +30,22 @@ Athletics 1, Ranged Combat 1, Survival 1
 
 Personal Skills: 7
 
-Basic Skills:(13 points)
-
-Academics (INT): 2
-
-Athletics (STR): 2
-
-Close Combat (STR): 1
-
-Crafting (DEX or INT): 1
-
-Finesse (DEX): 1
-
-Influence (PRS): 3
-
-Investigation (INT): 2
-
-Ranged Combat (DEX): 3
-
-Medicine (INT): 1
-
-Perception (ACT): 2
-
-Performance (PRS): 1
-
-Stealth (DEX): 2
-
-Survival (ACT or INT): 2
-
-Technology (INT): 2 
-
-Vehicle (DEX or INT): 1 
+Basic Skills:(13 points)  
+Academics (INT): 2  
+Athletics (STR): 2  
+Close Combat (STR): 1  
+Crafting (DEX or INT): 1  
+Finesse (DEX): 1  
+Influence (PRS): 3  
+Investigation (INT): 2  
+Ranged Combat (DEX): 3  
+Medicine (INT): 1  
+Perception (ACT): 2  
+Performance (PRS): 1  
+Stealth (DEX): 2  
+Survival (ACT or INT): 2   
+Technology (INT): 2   
+Vehicle (DEX or INT): 1  
 
 Wounds:
 
@@ -69,6 +55,7 @@ Wounds:
 | Serious     | 2     |
 | Critical    | 1     |
 | Lethal      | 1     |
+
 ##### Edge
 **Command (Level 1)**
 Leading and directing others in combat, using orders, tactics, and presence to coordinate allies and disrupt enemies. Effect: One free combat Help reaction per turn.
@@ -80,6 +67,7 @@ M1911 Pistol +3
 2 Smoke grenades for signaling
 Knife +3
 
+---
 
 #### **Radio Operator (RTO)**
 
@@ -87,13 +75,15 @@ Pfc. Harold “Sparks” Levine
 
 ![Pfc. Harold “Sparks” Levine](Images/Characters/PfcHaroldSparksLevine.png)
 
+Level 2
+
 Attributes:
-STR: 2
-DEX: 2
-RES: 2
-INT: 3
-ACT: 2
-PRS: 3
+STR: 2  
+DEX: 2  
+RES: 2  
+INT: 3  
+ACT: 2  
+PRS: 3  
 
 Background: Technician (Electrician)
 Investigation 1, Technology 2
@@ -103,22 +93,22 @@ Athletics 1, Ranged Combat 1, Survival 1
 
 Personal Skills: 7
 
-Basic Skills: (13 points)
-Academics (INT): 2
-Athletics (STR): 2
-Close Combat (STR): 1
-Crafting (DEX or INT): 2
-Finesse (DEX): 2
-Influence (PRS): 2
-Investigation (INT): 2
-Ranged Combat (DEX): 2
-Medicine (INT): 1
-Perception (ACT): 1
-Performance (PRS): 2
-Stealth (DEX): 2
-Survival (ACT or INT): 2
-Technology (INT): 3
-Vehicle (DEX or INT): 1 
+Basic Skills: (13 points)  
+Academics (INT): 2  
+Athletics (STR): 2  
+Close Combat (STR): 1  
+Crafting (DEX or INT): 2  
+Finesse (DEX): 2  
+Influence (PRS): 2  
+Investigation (INT): 2  
+Ranged Combat (DEX): 2  
+Medicine (INT): 1  
+Perception (ACT): 1  
+Performance (PRS): 2  
+Stealth (DEX): 2  
+Survival (ACT or INT): 2  
+Technology (INT): 3  
+Vehicle (DEX or INT): 1  
 
 | Wound Level | Slots |
 | ----------- | ----- |
@@ -126,6 +116,7 @@ Vehicle (DEX or INT): 1
 | Serious     | 2     |
 | Critical    | 1     |
 | Lethal      | 1     |
+
 ##### Edge 
 **Linguistic Savant (Level 1)** 
 Rapid comprehension of new languages. Effect: Learn new languages twice as fast and gain a +1 to Investigation checks for deciphering unknown dialects. Under these conditions, you may reroll 1 die as a free action once per scene.
@@ -138,6 +129,7 @@ Knife +3
 Radio Set (lost in jump)
 Small toolset
 
+---
 
 #### **Medic**
 
@@ -145,14 +137,15 @@ T/5 William “Doc” Hensley
 
 ![T/5 William “Doc” Hensley](Images/Characters/T5WilliamDocHensley.png)
 
+Level 2
 
 Attributes:
-STR: 2
-DEX: 2
-RES: 2
-INT: 3
-ACT: 3
-PRS: 2
+STR: 2  
+DEX: 2  
+RES: 2  
+INT: 3  
+ACT: 3  
+PRS: 2  
 
 Background: Physician (Emergency Medicine)
 Academics 1, Medicine 1, Perception 1
@@ -162,22 +155,22 @@ Athletics 1, Ranged Combat 1, Survival 1
 
 Personal Skills: 7
 
-Basic Skills: (13 points)
-Academics (INT): 2
-Athletics (STR): 2
-Close Combat (STR): 1
-Crafting (DEX or INT): 1
-Finesse (DEX): 3
-Influence (PRS): 2
-Investigation (INT): 2
-Ranged Combat (DEX): 2
-Medicine (INT): 3
-Perception (ACT): 2
-Performance (PRS): 1
-Stealth (DEX): 1
-Survival (ACT or INT): 2
-Technology (INT): 1
-Vehicle (DEX or INT): 1 
+Basic Skills: (13 points)  
+Academics (INT): 2  
+Athletics (STR): 2  
+Close Combat (STR): 1  
+Crafting (DEX or INT): 1  
+Finesse (DEX): 3  
+Influence (PRS): 2  
+Investigation (INT): 2  
+Ranged Combat (DEX): 2  
+Medicine (INT): 3  
+Perception (ACT): 2  
+Performance (PRS): 1  
+Stealth (DEX): 1  
+Survival (ACT or INT): 2  
+Technology (INT): 1  
+Vehicle (DEX or INT): 1  
 
 | Wound Level | Slots |
 | ----------- | ----- |
@@ -185,6 +178,7 @@ Vehicle (DEX or INT): 1
 | Serious     | 2     |
 | Critical    | 1     |
 | Lethal      | 1     |
+
 ##### Edge 
 **Focused Mind (Level 1)** 
 Your mental resilience allows you to resist distractions and minor psychological manipulation. Effect: Gain a +1 saving throws for resisting conditions: Controlled, Dazed, or Distracted. Under these conditions, you may reroll 1 die as a free action once per scene.
@@ -195,6 +189,7 @@ Knife +3
 MD 9712000 Medical Kit 
 Extra Canteen
 
+---
 
 #### **Recon / Sniper**
 
@@ -202,13 +197,15 @@ Cpl. Daniel “Hawk” Yazzie
 
 ![Cpl. Daniel “Hawk” Yazzie](Images/Characters/CplDanielHawkYazzie.png)
 
-Attributes:
-STR: 2
-DEX: 4
-RES: 2
-INT: 2
-ACT: 3
-PRS: 1
+Level 2
+
+Attributes:  
+STR: 2  
+DEX: 4  
+RES: 2 
+INT: 2 
+ACT: 3  
+PRS: 1  
 
 Background: Explorer (Scout)
 Athletics 1, Perception 1, Survival 1
@@ -218,22 +215,22 @@ Close Combat 1, Ranged Combat 1, Survival 1
 
 Personal Skills: 7
 
-Basic Skills: (13 points)
-Academics (INT): 1
-Athletics (STR): 2
-Close Combat (STR): 2
-Crafting (DEX or INT): 1
-Finesse (DEX): 2
-Influence (PRS): 1
-Investigation (INT): 2
-Ranged Combat (DEX): 3
-Medicine (INT): 2
-Perception (ACT): 2
-Performance (PRS): 1
-Stealth (DEX): 2
-Survival (ACT or INT): 3
-Technology (INT): 1
-Vehicle (DEX or INT): 1 
+Basic Skills: (13 points)  
+Academics (INT): 1  
+Athletics (STR): 2  
+Close Combat (STR): 2  
+Crafting (DEX or INT): 1  
+Finesse (DEX): 2  
+Influence (PRS): 1  
+Investigation (INT): 2  
+Ranged Combat (DEX): 3  
+Medicine (INT): 2  
+Perception (ACT): 2  
+Performance (PRS): 1  
+Stealth (DEX): 2  
+Survival (ACT or INT): 3  
+Technology (INT): 1  
+Vehicle (DEX or INT): 1  
 
 | Wound Level | Slots |
 | ----------- | ----- |
@@ -241,6 +238,7 @@ Vehicle (DEX or INT): 1
 | Serious     | 2     |
 | Critical    | 1     |
 | Lethal      | 1     |
+
 ##### Edge
 **Deadeye Marksman (Level 1)**
 Improved aim and precision with firearms. Effect: +1 to hit when using firearms. Under these conditions, you may reroll 1 die as a fee action once per scene. 
@@ -249,6 +247,7 @@ Improved aim and precision with firearms. Effect: +1 to hit when using firearms.
 M1903A4 Springfield bolt-action rifle +4, equipped with a 2.5x Weaver 330C (M73B1) scope (decrease range tier by 1)
 Knife +3
 
+---
 
 #### **Heavy Weapons (BAR Gunner / Anti-Armor)**
 
@@ -256,13 +255,15 @@ Pfc. Leonard “Big Lenny” Kowalski
 
 ![Pfc. Leonard “Big Lenny” Kowalski](Images/Characters/PfcLeonardBigLennyKowlski.png)
 
-Attributes:
-STR: 4
-DEX: 2
-RES: 4
-INT: 1
-ACT: 2
-PRS: 1
+Level 2
+
+Attributes:  
+STR: 4  
+DEX: 2  
+RES: 4  
+INT: 1  
+ACT: 2  
+PRS: 1  
 
 Background: Criminal (Street Enforcer)
 Close Combat 1, Influence 1, Ranged Combat 1
@@ -272,22 +273,22 @@ Athletics 1, Ranged Combat 1, Survival 1
 
 Personal Skills: 7
 
-Basic Skills: (13 points)
-Academics (INT): 1
-Athletics (STR): 3
-Close Combat (STR): 3
-Crafting (DEX or INT): 1
-Finesse (DEX): 1
-Influence (PRS): 2
-Investigation (INT): 1
-Ranged Combat (DEX): 3
-Medicine (INT): 1
-Perception (ACT): 2
-Performance (PRS): 1
-Stealth (DEX): 1
-Survival (ACT or INT): 2
-Technology (INT): 1
-Vehicle (DEX or INT): 2
+Basic Skills: (13 points)   
+Academics (INT): 1  
+Athletics (STR): 3  
+Close Combat (STR): 3  
+Crafting (DEX or INT): 1  
+Finesse (DEX): 1  
+Influence (PRS): 2  
+Investigation (INT): 1  
+Ranged Combat (DEX): 3  
+Medicine (INT): 1  
+Perception (ACT): 2  
+Performance (PRS): 1  
+Stealth (DEX): 1. 
+Survival (ACT or INT): 2  
+Technology (INT): 1  
+Vehicle (DEX or INT): 2. 
 
 | Wound Level | Slots |
 | ----------- | ----- |
@@ -295,6 +296,7 @@ Vehicle (DEX or INT): 2
 | Serious     | 2     |
 | Critical    | 1     |
 | Lethal      | 1     |
+
 ##### Edges
 **Athletic Build (Level 1)**
 Your physique is strong and agile. Effect: +1 to checks for lifting, carrying, or pushing.
@@ -304,6 +306,7 @@ Browning Automatic Rifle (squad automatic weapon) +5
 Knife +3
 2 Mk 2 grenades +5
 
+---
 
 #### **Mechanic / Demolitions**
 
@@ -311,14 +314,15 @@ T/4 Joseph “Joe” Caruso
 
 ![T/4 Joseph “Joe” Caruso](Images/Characters/T4JosephJoeCaruso.png)
 
+Level 2
 
-Attributes:
-STR: 3
-DEX: 3
-RES: 3
-INT: 2
-ACT: 1
-PRS: 2
+Attributes:  
+STR: 3  
+DEX: 3  
+RES: 3  
+INT: 2  
+ACT: 1  
+PRS: 2  
 
 Background: Technician (Mechanic)
 Investigation 1, Technical 1, Vehicle 1
@@ -328,22 +332,22 @@ Athletics 1, Ranged Combat 1, Survival 1
 
 Personal Skills: 7
 
-Basic Skills: (13 points)
-Academics (INT): 1
-Athletics (STR): 2
-Close Combat (STR): 2
-Crafting (DEX or INT): 2
-Finesse (DEX): 3
-Influence (PRS): 1
-Investigation (INT): 2
-Ranged Combat (DEX): 2
-Medicine (INT): 1
-Perception (ACT): 1
-Performance (PRS): 1
-Stealth (DEX): 2
-Survival (ACT or INT): 2
-Technology (INT): 3
-Vehicle (DEX or INT): 1
+Basic Skills: (13 points)  
+Academics (INT): 1  
+Athletics (STR): 2  
+Close Combat (STR): 2  
+Crafting (DEX or INT): 2  
+Finesse (DEX): 3  
+Influence (PRS): 1  
+Investigation (INT): 2  
+Ranged Combat (DEX): 2  
+Medicine (INT): 1  
+Perception (ACT): 1  
+Performance (PRS): 1  
+Stealth (DEX): 2  
+Survival (ACT or INT): 2  
+Technology (INT): 3  
+Vehicle (DEX or INT): 1  
 
 | Wound Level | Slots |
 | ----------- | ----- |
@@ -351,6 +355,7 @@ Vehicle (DEX or INT): 1
 | Serious     | 2     |
 | Critical    | 1     |
 | Lethal      | 1     |
+
 ##### Edge
 **Resourceful Scavenger (Level 1)**
 Quick thinking helps identify and repurpose useful scraps. Effect: Gain a +1 to Investigation or Survival checks when searching for needed items. Under these conditions, you may reroll 1 die as a free action once per scene.
@@ -361,65 +366,7 @@ Knife +3
 2 TNT satchel charges +6
 Tool repair kit
 
-
-### **NPCs**
-
-#### **Captain (Company Commander)**
-
-Captain Robert “Bob” Ellison
-
-![Captain Robert “Bob” Ellison](Images/Characters/CaptainRobertBobEllison.png)
-
-Attributes:
-STR: 2
-DEX: 2
-RES: 2
-INT: 3
-ACT: 2
-PRS: 3
-
-Background: Official (Officer)
-Academics 1, Influence 1, Investigation 1
-
-Background: Soldier 
-Athletics 1, Ranged Combat 1, Survival 1 
-
-Personal Skills: 7
-
-Basic Skills: (13 points)
-Academics (INT): 2
-Athletics (STR): 2
-Close Combat (STR): 2
-Crafting (DEX or INT): 1
-Finesse (DEX): 1
-Influence (PRS): 3
-Investigation (INT): 2
-Ranged Combat (DEX): 2
-Medicine (INT): 1
-Perception (ACT): 2
-Performance (PRS): 2
-Stealth (DEX): 2
-Survival (ACT or INT): 2
-Technology (INT): 2
-Vehicle (DEX or INT): 1 
-
-| Wound Level | Slots |
-| ----------- | ----- |
-| Minor       | 2     |
-| Serious     | 2     |
-| Critical    | 1     |
-| Lethal      | 1     |
-##### Edge 
-**Command (Level 2)**
-Leading and directing others in combat, using orders, tactics, and presence to coordinate allies and disrupt enemies. Effect: One free combat Help reaction at +2 per turn.
-
-##### **Weapons and Special Equipment**
-Thompson Submachine Gun +4
-M1911 Pistol +3
-2 Mk 2 Grenade (“pineapple”) +5
-2 Smoke grenades for signaling
-Knife +3
-
+---
 
 #### **Sergeant (Squad Leader / NCO)**
 
@@ -427,14 +374,15 @@ Sgt. Frank “Red” Donnelly
 
 ![Sgt. Frank “Red” Donnelly](Images/Characters/SgtFrankRedDonnelly.png)
 
+Level 2
 
-Attributes:
-STR: 3
-DEX: 2
-RES: 3
-INT: 2
-ACT: 2
-PRS: 2
+Attributes:  
+STR: 3  
+DEX: 2  
+RES: 3  
+INT: 2  
+ACT: 2  
+PRS: 2  
 
 Background: Laborer (Factory Worker)
 Athletics 1, Crafting 1, Vehicle 1
@@ -444,22 +392,22 @@ Athletics 1, Ranged Combat 1, Survival 1
 
 Personal Skills: 7
 
-Basic Skills: (13 points)
-Academics (INT): 1
-Athletics (STR): 3
-Close Combat (STR): 3
-Crafting (DEX or INT): 2
-Finesse (DEX): 1
-Influence (PRS): 2
-Investigation (INT): 1
-Ranged Combat (DEX): 3
-Medicine (INT): 1
-Perception (ACT): 2
-Performance (PRS): 1
-Stealth (DEX): 1
-Survival (ACT or INT): 2
-Technology (INT): 1
-Vehicle (DEX or INT): 1
+Basic Skills: (13 points)  
+Academics (INT): 1  
+Athletics (STR): 3  
+Close Combat (STR): 3  
+Crafting (DEX or INT): 2  
+Finesse (DEX): 1  
+Influence (PRS): 2  
+Investigation (INT): 1  
+Ranged Combat (DEX): 3  
+Medicine (INT): 1  
+Perception (ACT): 2  
+Performance (PRS): 1  
+Stealth (DEX): 1  
+Survival (ACT or INT): 2  
+Technology (INT): 1  
+Vehicle (DEX or INT): 1  
 
 | Wound Level | Slots |
 | ----------- | ----- |
@@ -467,6 +415,7 @@ Vehicle (DEX or INT): 1
 | Serious     | 2     |
 | Critical    | 1     |
 | Lethal      | 1     |
+
 ##### Edge 
 **Battlefield Awareness (Level 1)** 
 A trained eye for danger reduces the risk of surprise attacks. Effect: +1 to Perception checks against ambushes and traps. Under these conditions, you may reroll 1 die as a free action once per scene.
@@ -478,6 +427,7 @@ M1911 Pistol +3
 2 Smoke grenades for signaling
 Knife +3
 
+---
 
 #### **Rifleman #1**
 
@@ -485,14 +435,15 @@ Pfc. Thomas “Tommy” Baker
 
 ![Pfc. Thomas “Tommy” Baker](Images/Characters/PfcThomasTommyBaker.png)
 
+Level 2
 
-Attributes:
-STR: 3
-DEX: 2
-RES: 3
-INT: 2
-ACT: 2
-PRS: 2
+Attributes:  
+STR: 3  
+DEX: 2  
+RES: 3  
+INT: 2  
+ACT: 2  
+PRS: 2  
 
 Background: Athlete (Football Player)
 Athletics 1, Close Combat 1, Finesse 1
@@ -502,22 +453,22 @@ Athletics 1, Ranged Combat 1, Survival 1
 
 Personal Skills: 6
 
-Basic Skills: (12 Points)
-Academics (INT): 1
-Athletics (STR): 3
-Close Combat (STR): 2
-Crafting (DEX or INT): 1
-Finesse (DEX): 2
-Influence (PRS): 1
-Investigation (INT): 1
-Ranged Combat (DEX): 3
-Medicine (INT): 2
-Perception (ACT): 2
-Performance (PRS): 1
-Stealth (DEX): 2
-Survival (ACT or INT): 2
-Technology (INT): 1
-Vehicle (DEX or INT): 1 
+Basic Skills: (12 Points)  
+Academics (INT): 1  
+Athletics (STR): 3  
+Close Combat (STR): 2  
+Crafting (DEX or INT): 1  
+Finesse (DEX): 2  
+Influence (PRS): 1  
+Investigation (INT): 1  
+Ranged Combat (DEX): 3  
+Medicine (INT): 2  
+Perception (ACT): 2  
+Performance (PRS): 1  
+Stealth (DEX): 2  
+Survival (ACT or INT): 2  
+Technology (INT): 1  
+Vehicle (DEX or INT): 1   
 
 | Wound Level | Slots |
 | ----------- | ----- |
@@ -525,6 +476,7 @@ Vehicle (DEX or INT): 1
 | Serious     | 2     |
 | Critical    | 1     |
 | Lethal      | 1     |
+
 ##### Edge 
 **Enhanced Reflex Training (Level 1)**
 Quick reaction times improve combat readiness. Effect: Ability to act first in surprise rounds. At the beginning of combat the character may take a free attack at -2 before taking their normal action.
@@ -534,6 +486,7 @@ M1 Garand +4
 Bayonet +3
 2 Mk 2 grenades +5
 
+---
 
 #### **Rifleman #2**
 
@@ -541,14 +494,15 @@ Pfc. George Ramirez
 
 ![Pfc. George Ramirez](Images/Characters/PfcGeorgeRamirez.png)
 
+Level 2
 
-Attributes:
-STR: 2
-DEX: 2
-RES: 3
-INT: 2
-ACT: 2
-PRS: 2
+Attributes:  
+STR: 2  
+DEX: 2  
+RES: 3  
+INT: 2  
+ACT: 2  
+PRS: 2  
 
 Background: Laborer (Farm Laborer)
 Athletics 1, Crafting 1, Vehicle 1
@@ -558,22 +512,22 @@ Athletics 1, Ranged Combat 1, Survival 1
 
 Personal Skills: 6
 
-Basic Skills: (12 Points)
-Academics (INT): 1
-Athletics (STR): 3
-Close Combat (STR): 2
-Crafting (DEX or INT): 2
-Finesse (DEX): 1
-Influence (PRS): 1
-Investigation (INT): 1
-Ranged Combat (DEX): 3
-Medicine (INT): 1
-Perception (ACT): 2
-Performance (PRS): 1
-Stealth (DEX): 2
-Survival (ACT or INT): 2
-Technology (INT): 1
-Vehicle (DEX or INT): 2 
+Basic Skills: (12 Points)  
+Academics (INT): 1  
+Athletics (STR): 3  
+Close Combat (STR): 2 
+Crafting (DEX or INT): 2  
+Finesse (DEX): 1  
+Influence (PRS): 1  
+Investigation (INT): 1  
+Ranged Combat (DEX): 3  
+Medicine (INT): 1  
+Perception (ACT): 2  
+Performance (PRS): 1  
+Stealth (DEX): 2  
+Survival (ACT or INT): 2  
+Technology (INT): 1  
+Vehicle (DEX or INT): 2  
 
 | Wound Level | Slots |
 | ----------- | ----- |
@@ -581,6 +535,7 @@ Vehicle (DEX or INT): 2
 | Serious     | 2     |
 | Critical    | 1     |
 | Lethal      | 1     |
+
 ##### Edge 
 **Explorer’s Instinct (Level 1)** 
 You notice hidden paths and subtle environmental clues. Effect: +1 to Perception in outdoor or ruinous areas. Under these conditions, you may reroll 1 die as a free action once per scene.
@@ -590,20 +545,23 @@ M1 Garand  +4
 Bayonet +3
 2 Mk 2 grenades +5
 
+---
+
 #### **Rifleman #3**
 
 Pfc. Edward “Eddie” Clarke
 
 ![Pfc. Edward “Eddie” Clarke](Images/Characters/PfcEdwardEddieClarke.png)
 
+Level 2
 
-Attributes:
-STR: 2
-DEX: 3
-RES: 2
-INT: 2
-ACT: 2
-PRS: 2
+Attributes:  
+STR: 2  
+DEX: 3  
+RES: 2  
+INT: 2  
+ACT: 2  
+PRS: 2  
 
 Background: Laborer (Dock Worker)
 Athletics 1, Crafting 1, Vehicle 1
@@ -613,22 +571,22 @@ Athletics 1, Ranged Combat 1, Survival 1
 
 Personal Skills: 6
 
-Basic Skills: (12 Points)
-Academics (INT): 1
-Athletics (STR): 3
-Close Combat (STR): 2
-Crafting (DEX or INT): 2
-Finesse (DEX): 2
-Influence (PRS): 1
-Investigation (INT): 1
-Ranged Combat (DEX): 3
-Medicine (INT): 1
-Perception (ACT): 1
-Performance (PRS): 1
-Stealth (DEX): 2
-Survival (ACT or INT): 2
-Technology (INT): 1
-Vehicle (DEX or INT): 2
+Basic Skills: (12 Points)  
+Academics (INT): 1  
+Athletics (STR): 3  
+Close Combat (STR): 2  
+Crafting (DEX or INT): 2  
+Finesse (DEX): 2  
+Influence (PRS): 1  
+Investigation (INT): 1  
+Ranged Combat (DEX): 3  
+Medicine (INT): 1  
+Perception (ACT): 1  
+Performance (PRS): 1  
+Stealth (DEX): 2  
+Survival (ACT or INT): 2  
+Technology (INT): 1  
+Vehicle (DEX or INT): 2  
 
 | Wound Level | Slots |
 | ----------- | ----- |
@@ -636,6 +594,7 @@ Vehicle (DEX or INT): 2
 | Serious     | 2     |
 | Critical    | 1     |
 | Lethal      | 1     |
+
 ##### Edge 
 **Tireless (Level 1)**
 You recover quickly from physical exertion. Effect: Gain +1 die on Saving Throws made to resist fatigue, forced marches, sleep deprivation, or prolonged physical activity. Under these conditions, you may reroll 1 die as a free action once per scene.
@@ -645,6 +604,70 @@ M1 Garand +4
 Bayonet +3
 2 Mk 2 grenades +5
 
+---
+
+### **NPC**
+
+#### **Captain (Company Commander)**
+
+Captain Robert “Bob” Ellison
+
+![Captain Robert “Bob” Ellison](Images/Characters/CaptainRobertBobEllison.png)
+
+Level 2
+
+Attributes:  
+STR: 2  
+DEX: 2  
+RES: 2  
+INT: 3  
+ACT: 2  
+PRS: 3  
+
+Background: Official (Officer)
+Academics 1, Influence 1, Investigation 1
+
+Background: Soldier 
+Athletics 1, Ranged Combat 1, Survival 1 
+
+Personal Skills: 7
+
+Basic Skills: (13 points)  
+Academics (INT): 2  
+Athletics (STR): 2  
+Close Combat (STR): 2. 
+Crafting (DEX or INT): 1  
+Finesse (DEX): 1  
+Influence (PRS): 3   
+Investigation (INT): 2  
+Ranged Combat (DEX): 2  
+Medicine (INT): 1  
+Perception (ACT): 2  
+Performance (PRS): 2  
+Stealth (DEX): 2  
+Survival (ACT or INT): 2  
+Technology (INT): 2  
+Vehicle (DEX or INT): 1  
+
+| Wound Level | Slots |
+| ----------- | ----- |
+| Minor       | 2     |
+| Serious     | 2     |
+| Critical    | 1     |
+| Lethal      | 1     |
+
+##### Edge 
+**Command (Level 2)**
+Leading and directing others in combat, using orders, tactics, and presence to coordinate allies and disrupt enemies. Effect: One free combat Help reaction at +2 per turn.
+
+##### **Weapons and Special Equipment**
+Thompson Submachine Gun +4
+M1911 Pistol +3
+2 Mk 2 Grenade (“pineapple”) +5
+2 Smoke grenades for signaling
+Knife +3
+
+---
 
 ### **Company (Your Focus)**
 

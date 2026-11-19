@@ -176,7 +176,7 @@ You are a member of the 101st Airborne Division, 501st Parachute Infantry Regime
 
 ![[ChatGPT Image Sep 6, 2026 at 09_46_05 AM.png]]
 
-![Opening Scene](Images/Opening Scene.png)
+![Opening Scene](Images/Opening-Scene.png)
 
 The jumpmaster moves down the line shouting over the engines and giving final checks. “Stand up! Hook up!” his voice sharp, practiced, and urgent.
 

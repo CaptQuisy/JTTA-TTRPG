@@ -13,7 +13,7 @@
     - [Other Combat Modifiers](Combat/05.6-Other-Combat-Modifiers.md)
     - [Character Defense](Combat/05.7-Character-Defense.md)
   
---- 
+---
     
   - [Character Creation](Character/02.0-Character-Creation.md)
   - [Core Rules](Core/04.0-Core-Rules.md) 

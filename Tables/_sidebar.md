@@ -5,10 +5,10 @@
 - **Rules Reference**
   - [Table List](Tables/Tables.md)
   - [Character Tables](Tables/Tables-Character.md)
-  - [Core Rules Tables](Tables/Tables-Core.md)
+  - [Skill Checks](Tables/Tables-Skill-Checks.md)
   - [Combat Tables](Tables/Tables-Combat.md)
-  - [Damage & Wounds Tables](Tables/Tables-Damage-Wounds.md)
-  - [Opponents Tables](Tables/Tables-Oppoents.md)
+  - [Damage & Healing Tables](Tables/Tables-Damage-Healing.md)
+  - [Opponents Tables](Tables/Tables-Opponents.md)
   - [Equipment Tables](Tables/Tables-Equipment.md)
   - [Vehicle Tables](Tables/Tables-Vehicles.md)
   - [Chases Tables](Tables/Tables-Chases.md)

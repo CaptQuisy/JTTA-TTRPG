@@ -21,6 +21,6 @@
   - [Equipment](Equipment/03.0-Equipment.md)
   - [Vehicles](Vehicles/03.4-Vehicles.md)
   - [Tables](Tables/Tables.md)
-  -     
+       
 - **Additional Information**
   - [Licensing](Credits-and-Legal.md)

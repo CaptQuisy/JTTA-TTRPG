@@ -6,8 +6,6 @@
 
 [Equipment: Armor Profiles](Equipment/03.2-Armor-and-Protective-Equipment.md#Armor-Profiles)
 
-[Equipment: Background Items](Equipment/03.5-Wealth-and-Acquiring-Equipment.md#Free-Background-Item)
-
 [Equipment: Cost Categories](Equipment/03.5-Wealth-and-Acquiring-Equipment.md#Cost-Categories)
 
 [Equipment: Lists - Armor and Protection](Equipment/03.6-Equipment-List.md#Armor-and-Protection)

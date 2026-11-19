@@ -810,7 +810,7 @@ Medics often carried extra canteens and sometimes cigarettes to comfort wounded 
 ---
 
 
-![Edward Clarke token](Adventures/WW2/Images/Tokens/EdwardClarketoken.png)
+![Edward Clarke token](Images/Tokens/EdwardClarketoken.png)
 
 ![GeorgeRamireztoken](Adventures/WW2/Images/Tokens/GeorgeRamireztoken.png)
 

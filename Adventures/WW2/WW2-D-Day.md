@@ -496,7 +496,7 @@ Outcomes:
 | 1   | Three Dead German Soldiers                        |
 | 2   | Guard Post                                        |
 | 3   | Destroyed American Glider with Dead Troops Inside |
-| 4   | German Patrol in Transit                          |
+| 4   | German Motorcycle Patrol                          |
 | 5   | Wounded German Soldier                            |
 | 6   | Enemy Flare Illumination                          |
 

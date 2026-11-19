@@ -239,7 +239,7 @@ Knife +3
 
 Pfc. Leonard “Big Lenny” Kowalski
 
-![Pfc. Leonard “Big Lenny” Kowalski](Images/Characters/PfcLeonardBigLennyKowalski.png)
+![Pfc. Leonard “Big Lenny” Kowalski](Images/Characters/PfcLeonardBigLennyKowlski.png)
 
 Attributes:
 STR: 4

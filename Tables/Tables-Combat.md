@@ -31,3 +31,7 @@
 [Explosives: Power Levels](Combat/05.5-Area-Effects.md#Explosive-Power-Levels)
 
 [Explosives: Types](Combat/05.5-Area-Effects.md#Types-of-Ranged-Explosive)
+
+[Movement: Optional Range Bands](Combat/05.2-Movement-and-Positioning.md#Optional-Rule-Range-Band-Movement)
+
+[Movement: Rates](Combat/05.2-Movement-and-Positioning.md#Movement-Rates)

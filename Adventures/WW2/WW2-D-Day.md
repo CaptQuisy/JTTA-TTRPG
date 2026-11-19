@@ -251,7 +251,9 @@ Once on the ground, you must quickly free yourselves from your parachute, recove
 Since your plane was shot down early, you didn't reach the expected drop zone. you don't know where you are.  
 
 You do have a compass and know which direction to travel. You have a map of the overall area and know where the ultimate target is located.
-![[DDay Landing Map.png]]
+![DDay Landing Map](
+
+![D-Day Landing Map](Images/DDay-Landing-Map.png)
 
 #### **Phase 2: Find Your Way**
 
@@ -294,6 +296,8 @@ Each Event/Landmark takes at least 30 minutes. Some choices made resolving the E
 
 Situation: Dead paratrooper hanging from a tree.
 
+![Dead American Paratrooper](Images/Dead-American-Paratrooper.png)
+
 ![[ChatGPT Image Sep 2, 2026 at 07_15_22 PM.png]]
 
 A paratrooper hangs motionless from a tall tree at the edge of a Norman field. His parachute caught in the upper branches during the chaotic night drop, leaving him suspended 12 feet above the ground. His helmet hangs crooked from its chinstrap, and one boot is missing, lying in the grass beneath him alongside part of his scattered equipment. 
@@ -324,6 +328,9 @@ Outcomes:
 
 Situation: Recently abandoned; signs of hurried departure.
 
+
+![Empty Farmhouse](Images/Empty-Farmhouse.png)
+
 ![[ChatGPT Image Sep 2, 2026 at 07_20_51 PM.png]]
 
 The small stone farmhouse stands silent beside a narrow country lane, its front door hanging partly open and one shutter banging softly in the wind. The family who lived here appears to have left in a great hurry. An unfinished meal remains on the kitchen table, chairs have been pushed aside, drawers and cupboards stand open, and clothing is scattered across an upstairs bedroom. A child's wooden toy lies abandoned near the doorway, while several framed family photographs remain on a shelf. Most valuables and portable food are gone, but the characters can find a little bread and cheese, several bottles of cider, blankets, basic tools, matches, candles, and a small first-aid box. Outside, the barn is empty except for loose hay and farming implements, and wagon tracks lead away toward the road. There are no bodies and no obvious signs of fighting. The occupants apparently heard or saw the approaching invasion and fled before the paratroopers arrived. The farmhouse provides temporary shelter and concealment, but its open doors and hurriedly abandoned rooms leave an uneasy question: what frightened the family enough to make them leave everything behind?
@@ -351,6 +358,8 @@ Outcomes:
 ###### **3) Stream**
 
 Situation: Natural obstacle with concealment advantages.
+
+![Stream](Images/Stream.png)
 
 ![[ChatGPT Image Sep 2, 2026 at 07_27_58 PM.png]]
 
@@ -385,6 +394,8 @@ Outcomes:
 
 Situation: Shell-shocked soldier, disoriented and frightened.
 
+![Traumatized American Paratrooper](Images/Traumatized-American-Paratrooper.png)
+
 ![[ChatGPT Image Sep 2, 2026 at 07_30_49 PM.png]]
 
 The characters find Pfc. Raymond “Ray” Keller, a 19-year-old rifleman from Pittsburgh serving with the 501th Parachute Infantry Regiment, crouched beneath a hedgerow with his M1 Garand held tightly across his chest. His helmet and much of his equipment are gone, his uniform is soaked with mud, and his hands shake uncontrollably. 
@@ -414,6 +425,8 @@ Outcomes:
 
 Situation: A supply bundle from the drop hangs tangled in a hedgerow or lies half-buried in a field.
 
+![Night Drop Scattered Supplies](Images/Night-Drop-Scattered-Supplies.png)
+
 ![[ChatGPT Image Sep 2, 2026 at 07_33_37 PM.png]]
 
 A pale parachute canopy snagged across the top of a hedgerow marks the location of an American supply bundle dropped during the night. The heavy container struck the field hard, splitting part of its casing and scattering equipment through the wet grass and brush. Inside, the characters can recover M1 rifle ammunition, grenades, medical dressings, rations, demolition explosives, detonators, spare radio batteries, and waterproof map packets. Some items have been ruined by the impact or soaked with water, and searching through the scattered contents takes valuable time. 
@@ -441,6 +454,8 @@ Outcomes:
 ###### **6) Railroad Track**
 
 Situation: Key logistical route through open terrain.
+
+![Railroad Tracks](Images/Railroad-Tracks.png)
 
 ![[ChatGPT Image Sep 2, 2026 at 07_36_16 PM.png]]
 
@@ -488,6 +503,8 @@ Outcomes:
 
 Situation: Recently killed; battlefield still quiet.
 
+![Three Dead German Soldiers](Images/Three-Dead-German-Soldiers.png)
+
 ![[ChatGPT Image Sep 2, 2026 at 07_40_52 PM.png]]
 
 Three German soldiers lie dead beside a sunken country lane, their bodies partly concealed by the grass and shadow of a nearby hedgerow. The fighting appears to have happened only recently: spent cartridge cases litter the road, one soldier still grips his Kar98k, and another lies several yards away as though he tried to reach cover. Their weapons, ammunition, field gear, rations, and canteens remain largely untouched, while an officer or NCO's map case may contain orders, identification papers, a local map, or notes concerning nearby German positions and patrol routes. 
@@ -515,6 +532,8 @@ Outcomes:
 ###### **2) Guard Post**
 
 Situation: Fortified position controlling movement.
+
+![Guard Post](Images/Guard-Post.png)
 
 ![[ChatGPT Image Sep 2, 2026 at 07_44_21 PM.png]]
 
@@ -548,6 +567,8 @@ Outcomes:
 
 Situation: Wreckage of a failed landing with equipment scattered among the dead.
 
+![Destroyed American Glider](Images/Destroyed-American-Glider.png)
+
 ![[ChatGPT Image Sep 2, 2026 at 07_49_39 PM.png]]
 
 The shattered remains of an American Waco CG-4A glider lie at the far end of a field, its nose crushed against a hedgerow and one wing torn away during the violent landing. Several American airborne soldiers are dead inside the broken fuselage, still strapped into their seats or thrown among splintered wood, equipment, and cargo. Others lie outside where they were pulled or thrown from the wreckage. The crash has scattered ammunition, medical supplies, demolition gear, and heavier weapons across the field, some damaged but much still usable. A map case or officer's equipment may contain useful maps, orders, or information about nearby objectives. Searching the wreck could provide the squad with equipment normally unavailable to lightly armed paratroopers, but the large glider is easily visible from surrounding roads and fields. Tracks and disturbed equipment suggest German soldiers may already have discovered the wreck and could return to continue scavenging it. For the characters, searching the bodies and wreckage also carries an emotional cost: these men crossed the Channel as part of the same invasion, only to die before they ever had a chance to fight.
@@ -572,6 +593,8 @@ Outcomes:
 
 
 ###### 4) German Motorcycle Patrol
+
+![German Motorcycle Patrol](Images/German-Motorcycle-Patrol.png)
 
 ![[ChatGPT Image Sep 4, 2026 at 07_52_25 PM.png]]
 
@@ -601,6 +624,8 @@ Outcome:
 
 Situation: A wounded enemy soldier lies hidden, bleeding but conscious.
 
+![Wounded German Soldiers](Images/Wounded-German-Soldiers.png)
+
 ![[ChatGPT Image Sep 2, 2026 at 07_56_23 PM.png]]
 
 The characters hear a faint groan from beneath the tangled branches of a hedgerow and discover a wounded German soldier lying in a shallow ditch. He is pale and frightened, with a blood-soaked field dressing wrapped around his thigh and his Kar98k lying just beyond his reach. He is conscious and understands only limited English, but with gestures, basic German, or an interpreter, the characters may question him about nearby units, patrol routes, checkpoints, or German positions. Whether frightened, loyal, or simply desperate to survive, he may provide useful information—but he might also lie, exaggerate German strength, or deliberately stall the Americans in hopes that help arrives. The characters can treat his wound and leave him behind, attempt to take him prisoner, or otherwise prevent him from revealing their presence. Leaving him unattended carries its own risk: once the Americans disappear, he may shout for help or warn approaching troops. Fresh tracks along the nearby lane suggest an additional danger—a German patrol may already be searching for their missing comrade.
@@ -627,6 +652,8 @@ Outcomes:
 ###### **6) Enemy Flare Illumination**
 
 Situation: A flare suddenly lights the sky, turning night into day.
+
+![Enemy Flare Illumination](Images/Enemy-Flare-Illumination.png)
 
 ![[ChatGPT Image Sep 2, 2026 at 08_01_55 PM.png]]
 
@@ -671,6 +698,8 @@ Outcomes:
 
 Situation: A farmhouse with a frightened French family sheltering inside. 
 
+![Farmhouse with French Family](Images/Farmhouse-with-French-Family.png)
+
 ![[ChatGPT Image Sep 2, 2026 at 08_10_27 PM.png]]
 
 A faint light shows through the shuttered windows of a small stone farmhouse, where the characters discover a French family sheltering inside. 
@@ -702,6 +731,8 @@ Outcomes:
 
 Situation: Occupied by a small German unit resting or staging patrols.
 
+![TFarmhouse with German Troops](Images/Farmhouse-with-German-Troops.png)
+
 ![[ChatGPT Image Sep 2, 2026 at 08_13_26 PM.png]]
 
 
@@ -731,6 +762,8 @@ Outcomes:
 
 Situation: Dense hedgerows create tight, claustrophobic lanes—perfect for ambush.
 
+![Hedgerow Ambush Site](Images/Hedgerow-Ambush-Site.png)
+
 ![[ChatGPT Image Sep 2, 2026 at 08_32_37 PM.png]]
 
 The narrow country lane disappears between towering Norman hedgerows, their tangled walls of earth, roots, thorny brush, and dense vegetation rising several feet above the road. Visibility is limited to only a short distance, and every bend or opening could conceal enemy troops. The position offers the characters an excellent opportunity to set an ambush, allowing a German patrol to enter the confined lane before attacking from concealed positions along the banks. Alternatively, they can move cautiously through the area or bypass it through the surrounding fields, sacrificing time to reduce the risk of contact. The same terrain that makes the location ideal for an American ambush makes it equally dangerous. The Germans may already be waiting among the hedgerows. If fighting begins, it will likely occur at close range, with poor visibility and soldiers firing from several directions, creating a serious risk of confusion and friendly fire among scattered American units operating nearby.
@@ -757,6 +790,8 @@ Outcomes:
 ###### **4) Burning Village Edge**
 
 Situation: A nearby village burns, smoke rising into the night. Occasional gunfire echoes.
+
+![Burning Village](Images/Burning-Village.png)
 
 ![[ChatGPT Image Sep 2, 2026 at 08_37_39 PM.png]]
 
@@ -789,6 +824,8 @@ Outcomes:
 
 Situation: A small church with a bell tower overlooking the countryside.
 
+![TChurch Bell Tower](Images/Church-Bell-Tower.png)
+
 ![[ChatGPT Image Sep 2, 2026 at 08_44_45 PM.png]]
 
 A small stone church rises above the surrounding farms and hedgerows, its square bell tower offering a commanding view of the countryside. From the top, the characters could orient themselves using roads, villages, waterways, and other landmarks, while also observing German patrol routes, checkpoints, vehicle movements, or the direction of their objective. 
@@ -816,6 +853,8 @@ Outcomes:
 ###### **6) Roadblock with Civilian Cart**
 
 Situation: A German checkpoint halts a civilian cart loaded with goods.
+
+![TRoadblock with Civilian Cart](Images/Raodblock-with-Civilian-Cart.png)
 
 ![[ChatGPT Image Sep 2, 2026 at 08_55_54 PM.png]]
 
@@ -853,9 +892,13 @@ The causeway rises above a broad expanse of flooded fields, carrying a narrow r
 
 At Night:
 
+![The Causeway at Night](Images/The-Causeway-Night.png)
+
 ![[ChatGPT Image Sep 2, 2026 at 09_23_17 PM.png]]
 
 At Dawn:
+
+![The Causeway at Dawn](Images/The-Causeway-Dawn.png)
 
 ![[ChatGPT Image Sep 2, 2026 at 09_05_23 PM.png]]
 
@@ -893,6 +936,10 @@ Optional Reinforcements:
 - Open ground = no cover
 - MG fire dominates approach
 - Flooded fields prevent flanking except via stealth
+
+![The Causeway Map 1](Images/The-Causeway-Map-1.png)
+
+![The Causeway Map 2](Images/The-Causeway-Map-2.png)
 
 ![[ChatGPT Image Aug 25, 2026 at 07_04_34 PM.png]]
 

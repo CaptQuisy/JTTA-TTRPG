@@ -202,8 +202,8 @@ Level 2
 Attributes:  
 STR: 2  
 DEX: 4  
-RES: 2 
-INT: 2 
+RES: 2  
+INT: 2  
 ACT: 3  
 PRS: 1  
 

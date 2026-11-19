@@ -14,17 +14,12 @@
 
 
 Attributes:
-STR: 2
-
-DEX: 2
-
-RES: 2
-
-INT: 3
-
-ACT: 2
-
-PRS: 3
+STR: 2 \
+DEX: 2 \
+RES: 2 \
+INT: 3 \
+ACT: 2 \
+PRS: 3 \
 
 Background: Scholar (Engineering)
 Academics 1, Investigation 1, Technology 1

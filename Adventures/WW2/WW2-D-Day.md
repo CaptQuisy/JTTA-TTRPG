@@ -455,7 +455,7 @@ Outcomes:
 
 Situation: Key logistical route through open terrain.
 
-![Railroad Tracks](Images/Railroad-Tracks.png)
+![Railroad Tracks](Images/Railroad-Track.png)
 
 ![[ChatGPT Image Sep 2, 2026 at 07_36_16 PM.png]]
 

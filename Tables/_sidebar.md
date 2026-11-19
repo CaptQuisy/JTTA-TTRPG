@@ -5,7 +5,7 @@
 - **Rules Reference**
   - [Table List](Tables/Tables.md)
   - [Character Tables](Tables/Tables-Character.md)
-  - [Skill Checks](Tables/Tables-Skill-Checks.md)
+  - [Skill Checks Tables](Tables/Tables-Skill-Checks.md)
   - [Combat Tables](Tables/Tables-Combat.md)
   - [Damage & Healing Tables](Tables/Tables-Damage-Healing.md)
   - [Opponents Tables](Tables/Tables-Opponents.md)

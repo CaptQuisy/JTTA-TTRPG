@@ -807,3 +807,29 @@ Other Items:
 
 Medics often carried extra canteens and sometimes cigarettes to comfort wounded soldiers.
 
+---
+
+
+![Edward Clarke token](Adventures/Images/Tokens/EdwardClarketoken.png)
+
+![GeorgeRamireztoken](Adventures/Images/Tokens/GeorgeRamireztoken.png)
+
+![ThomasBakertoken](Adventures/Images/Tokens/ThomasBakertoken.png)
+
+![FrankDonnellytoken](Adventures/Images/Tokens/FrankDonnellytoken.png)
+
+![RobertEllisontoken](Adventures/Images/Tokens/RobertEllisontoken.png)
+
+![JosephCarusotoken](Adventures/Images/Tokens/JosephCarusotoken.png)
+
+![LeonardKowalskitoken](Adventures/Images/Tokens/LeonardKowalskitoken.png)
+
+![DanielYazzietoken](Adventures/Images/Tokens/DanielYazzietoken.png)
+
+![WilliamHensleytoken](Adventures/Images/Tokens/WilliamHensleytoken.png)
+
+![HaroldLevinetoken.png](Adventures/Images/Tokens/HaroldLevinetoken.png)
+
+![JamesCaldwelltoken.png](Adventures/Images/Tokens/JamesCaldwelltoken.png)
+
+

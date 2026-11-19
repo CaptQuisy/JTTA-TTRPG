@@ -291,7 +291,7 @@ Each Event/Landmark takes at least 30 minutes. Some choices made resolving the E
 | 3   | Stream                                      |
 | 4   | Traumatized American Paratrooper            |
 | 5   | Night Drop Scattered Supplies Cache         |
-| 6   | Flooded Lowland / Marsh                     |
+| 6   | Railroad Tracks.                            |
 
 ###### **1) Dead American Paratrooper Hanging in a Tree**
 

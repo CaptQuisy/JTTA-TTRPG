@@ -2,7 +2,7 @@
 - **Journey Through the Ages**
   - [Welcome to Journey Through The Ages](01.0-Welcome-to-Journey-Through-The-Ages.md)
    
- - **Rules Reference**
+- **Rules Reference**
   - [Table List](Tables/Tables.md)
   - [Character Tables](Tables/Tables-Character.md)
   - [Core Rules Tables](Tables/Tables-Core.md)
@@ -21,6 +21,7 @@
   - [Damage and Wounds](Damage/06.0-Damage-and-Wounds.md)
   - [Opponents](Opponents/07.0-Opponents.md)
   - [Combat Example](Example/08.0-Combat-Example.md)
+  - [Vehicle Combat](Vehicles/09.0-Vehicle-Combat.md)
   - [Equipment](Equipment/03.0-Equipment.md)
   - [Chases](Chases/10.0-Chases.md)
   - [Vehicles](Vehicles/03.4-Vehicles.md)

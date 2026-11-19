@@ -800,7 +800,7 @@ Outcomes:
 
 Situation: A small church with a bell tower overlooking the countryside.
 
-![TChurch Bell Tower](Images/Church-Bell-Tower.png)
+![Church Bell Tower](Images/Church-Bell-Tower.png)
 
 A small stone church rises above the surrounding farms and hedgerows, its square bell tower offering a commanding view of the countryside. From the top, the characters could orient themselves using roads, villages, waterways, and other landmarks, while also observing German patrol routes, checkpoints, vehicle movements, or the direction of their objective. 
 

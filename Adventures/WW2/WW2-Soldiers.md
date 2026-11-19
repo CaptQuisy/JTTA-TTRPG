@@ -812,24 +812,24 @@ Medics often carried extra canteens and sometimes cigarettes to comfort wounded 
 
 ![Edward Clarke token](Images/Tokens/EdwardClarketoken.png)
 
-![GeorgeRamireztoken](Adventures/WW2/Images/Tokens/GeorgeRamireztoken.png)
+![GeorgeRamireztoken](Images/Tokens/GeorgeRamireztoken.png)
 
-![ThomasBakertoken](Adventures/WW2/Images/Tokens/ThomasBakertoken.png)
+![ThomasBakertoken](Images/Tokens/ThomasBakertoken.png)
 
-![FrankDonnellytoken](Adventures/WW2/Images/Tokens/FrankDonnellytoken.png)
+![FrankDonnellytoken](Images/Tokens/FrankDonnellytoken.png)
 
-![RobertEllisontoken](Adventures/WW2/Images/Tokens/RobertEllisontoken.png)
+![RobertEllisontoken](Images/Tokens/RobertEllisontoken.png)
 
-![JosephCarusotoken](Adventures/WW2/Images/Tokens/JosephCarusotoken.png)
+![JosephCarusotoken](Images/Tokens/JosephCarusotoken.png)
 
-![LeonardKowalskitoken](Adventures/WW2/Images/Tokens/LeonardKowalskitoken.png)
+![LeonardKowalskitoken](Images/Tokens/LeonardKowalskitoken.png)
 
-![DanielYazzietoken](Adventures/WW2/Images/Tokens/DanielYazzietoken.png)
+![DanielYazzietoken](Images/Tokens/DanielYazzietoken.png)
 
-![WilliamHensleytoken](Adventures/WW2/Images/Tokens/WilliamHensleytoken.png)
+![WilliamHensleytoken](Images/Tokens/WilliamHensleytoken.png)
 
-![HaroldLevinetoken.png](Adventures/WW2/Images/Tokens/HaroldLevinetoken.png)
+![HaroldLevinetoken.png](Images/Tokens/HaroldLevinetoken.png)
 
-![JamesCaldwelltoken.png](Adventures/WW2/Images/Tokens/JamesCaldwelltoken.png)
+![JamesCaldwelltoken.png](Images/Tokens/JamesCaldwelltoken.png)
 
 

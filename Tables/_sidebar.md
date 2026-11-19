@@ -2,7 +2,7 @@
 - **Journey Through the Ages**
   - [Welcome to Journey Through The Ages](01.0-Welcome-to-Journey-Through-The-Ages.md)
    
-- **Rules Reference**
+ - **Rules Reference**
   - [Table List](Tables/Tables.md)
   - [Character Tables](Tables/Tables-Character.md)
   - [Core Rules Tables](Tables/Tables-Core.md)

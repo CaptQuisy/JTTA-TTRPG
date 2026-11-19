@@ -14,7 +14,7 @@
   - [Tables](Tables/Tables.md)
 
 - **Adventures**
-  - [WW2 D-Day Broken Causeway](Adventures/WW2/Readme.md)
+  - [WW2 D-Day Broken Causeway](Adventures/WW2/WW-D-Day.md)
 
 - **Additional Information**
   - [Licensing](Credits-and-Legal.md)

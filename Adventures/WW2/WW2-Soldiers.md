@@ -52,7 +52,7 @@ Wounds:
 | ----------- | ----- |
 | Minor       | 2     |
 | Serious     | 2     |
-| Critical    | 2     |
+| Critical    | 1     |
 | Lethal      | 1     |
 ##### Edge
 **Command (Level 1)**
@@ -109,7 +109,7 @@ Vehicle (DEX or INT): 1
 | ----------- | ----- |
 | Minor       | 2     |
 | Serious     | 2     |
-| Critical    | 2     |
+| Critical    | 1     |
 | Lethal      | 1     |
 ##### Edge 
 **Linguistic Savant (Level 1)** 
@@ -168,7 +168,7 @@ Vehicle (DEX or INT): 1
 | ----------- | ----- |
 | Minor       | 2     |
 | Serious     | 2     |
-| Critical    | 2     |
+| Critical    | 1     |
 | Lethal      | 1     |
 ##### Edge 
 **Focused Mind (Level 1)** 
@@ -224,7 +224,7 @@ Vehicle (DEX or INT): 1
 | ----------- | ----- |
 | Minor       | 2     |
 | Serious     | 2     |
-| Critical    | 2     |
+| Critical    | 1     |
 | Lethal      | 1     |
 ##### Edge
 **Deadeye Marksman (Level 1)**
@@ -278,7 +278,7 @@ Vehicle (DEX or INT): 2
 | ----------- | ----- |
 | Minor       | 4     |
 | Serious     | 2     |
-| Critical    | 2     |
+| Critical    | 1     |
 | Lethal      | 1     |
 ##### Edges
 **Athletic Build (Level 1)**
@@ -334,7 +334,7 @@ Vehicle (DEX or INT): 1
 | ----------- | ----- |
 | Minor       | 3     |
 | Serious     | 2     |
-| Critical    | 2     |
+| Critical    | 1     |
 | Lethal      | 1     |
 ##### Edge
 **Resourceful Scavenger (Level 1)**
@@ -392,7 +392,7 @@ Vehicle (DEX or INT): 1
 | ----------- | ----- |
 | Minor       | 2     |
 | Serious     | 2     |
-| Critical    | 2     |
+| Critical    | 1     |
 | Lethal      | 1     |
 ##### Edge 
 **Command (Level 2)**
@@ -450,7 +450,7 @@ Vehicle (DEX or INT): 1
 | ----------- | ----- |
 | Minor       | 3     |
 | Serious     | 2     |
-| Critical    | 2     |
+| Critical    | 1     |
 | Lethal      | 1     |
 ##### Edge 
 **Battlefield Awareness (Level 1)** 
@@ -508,7 +508,7 @@ Vehicle (DEX or INT): 1
 | ----------- | ----- |
 | Minor       | 2     |
 | Serious     | 2     |
-| Critical    | 2     |
+| Critical    | 1     |
 | Lethal      | 1     |
 ##### Edge 
 **Enhanced Reflex Training (Level 1)**
@@ -564,7 +564,7 @@ Vehicle (DEX or INT): 2
 | ----------- | ----- |
 | Minor       | 3     |
 | Serious     | 2     |
-| Critical    | 2     |
+| Critical    | 1     |
 | Lethal      | 1     |
 ##### Edge 
 **Explorer’s Instinct (Level 1)** 
@@ -619,7 +619,7 @@ Vehicle (DEX or INT): 2
 | ----------- | ----- |
 | Minor       | 2     |
 | Serious     | 2     |
-| Critical    | 2     |
+| Critical    | 1     |
 | Lethal      | 1     |
 ##### Edge 
 **Tireless (Level 1)**

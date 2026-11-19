@@ -174,8 +174,6 @@ It is 1:05 a.m. GMT on June 6th, 1944. You are sitting near the front of the Dou
 
 You are a member of the 101st Airborne Division, 501st Parachute Infantry Regiment, 2nd Brigade, D "Dog" Company, Platoon 2. Just a few hours ago you were waiting on a RAF airfield in Devon England. Now you and your platoon of 18 men are waiting to make your first real combat jump over Normandy France. It's time to face the Germans.
 
-![[ChatGPT Image Sep 6, 2026 at 09_46_05 AM.png]]
-
 ![Opening Scene](Images/Opening-Scene.png)
 
 The jumpmaster moves down the line shouting over the engines and giving final checks. “Stand up! Hook up!” his voice sharp, practiced, and urgent.
@@ -204,6 +202,7 @@ Around you, other parachutes dot the sky with some drifting wide, others descend
 
 You are alone in the night, descending into enemy territory.
 
+![Landing Site](Images/Landing-Site.png)
 
 ![[ChatGPT Image Sep 4, 2026 at 06_14_26 PM.png]]
 

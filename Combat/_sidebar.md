@@ -3,8 +3,7 @@
   - [Welcome to Journey Through The Ages](01.0-Welcome-to-Journey-Through-The-Ages.md)
    
 - **Rules Reference**
-
- - [Combat](Combat/05.0-Combat.md)
+  - [Combat](Combat/05.0-Combat.md)
     - [Initiative & Surprise](Combat/05.1-Initiative-and-Surprise.md)
     - [Movement & Positioning](Combat/05.2-Movement-and-Positioning.md)
     - [Close Combat](Combat/05.3-Close-Combat.md)

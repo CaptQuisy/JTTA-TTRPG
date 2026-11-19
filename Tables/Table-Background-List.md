@@ -32,6 +32,7 @@ During character creation, select one Background and distribute **3 Background 
 | **Spiritualist**      | You devoted yourself to faith, philosophy, spiritual guidance, or the pursuit of enlightenment.                      | Academics, Influence, Medicine, Performance                     |
 | **Teacher**           | You developed expertise in educating, instructing, and communicating knowledge to others.                            | Academics, Influence, Performance                               |
 | **Technician**        | You specialized in maintaining, repairing, and operating machinery or complex technical systems.                     | Investigation, Technology, Vehicle                              |
+
 ### Background Selection Rules
 
 **Starting Benefits:** Every Background provides 3 Background Skill Points and one appropriate free signature item, as described in the Equipment chapter.
@@ -41,38 +42,3 @@ During character creation, select one Background and distribute **3 Background 
 **Skill Limits:** Every Basic Skill begins at Level 1, and no Skill may exceed Level 5 during character creation.
 
 **Historical Flexibility:** Backgrounds apply across different eras. For example, a Soldier/Mercenary might be a Roman legionnaire, a medieval knight, a World War II paratrooper, or a futuristic marine.
-
-**Custom Backgrounds:** With Game Master approval, players may create new Backgrounds by selecting 3–5 appropriate Skills while retaining the standard 3 Background Skill Points.
-
-### Background Free Items
-
-Every Background grants one signature item at no cost during character creation.
-
-| Background          | Free Background Item                                                            |
-| ------------------- | ------------------------------------------------------------------------------- |
-| Athlete             | Athletic gear, climbing kit, or training equipment                              |
-| Artisan             | Professional artisan's toolkit                                                  |
-| Bounty Hunter       | Manacles, restraints, or a bounty ledger                                        |
-| Courtesan           | Fine clothing, jewelry, or a cosmetic kit                                       |
-| Criminal            | Lockpick set, concealed knife, or forgery kit                                   |
-| Drifter             | Bedroll, weatherproof cloak, or travel pack                                     |
-| Entertainer         | Musical instrument, costume, or performance kit                                 |
-| Entitled (Nobility) | Signet ring, family crest, or formal attire                                     |
-| Explorer            | Compass, maps, or explorer's field kit                                          |
-| Journalist          | Journal, camera, recorder, or writing kit                                       |
-| Laborer             | Durable work clothes and basic hand tools                                       |
-| Law Enforcement     | Badge, identification, handcuffs, or issued sidearm, if appropriate             |
-| Merchant            | Ledger, scales, merchant's kit, or trade samples                                |
-| Official            | Official credentials, administrative records, or seal of office                 |
-| Physician           | Medical bag, first aid kit, or surgical instruments                             |
-| Pilot / Driver      | Navigation charts, vehicle toolkit, or pilot's headset                          |
-| Politician          | Formal attire, correspondence portfolio, or official credentials                |
-| Sailor              | Navigator's tools, marlinspike, or sailor's sea bag                             |
-| Scholar             | Reference books, research notes, or portable library                            |
-| Scientist           | Scientific instruments, laboratory kit, or field analyzer                       |
-| Smuggler            | Hidden compartment, false-bottom container, or smuggling kit                    |
-| Socialite           | Designer clothing, invitation portfolio, or etiquette kit                       |
-| Soldier / Mercenary | Standard-issue combat kit, military backpack, or service weapon, if appropriate |
-| Spiritualist        | Holy symbol, ceremonial robes, or devotional texts                              |
-| Teacher             | Teaching materials, writing kit, or educational texts                           |
-| Technician          | Professional toolkit, diagnostic scanner, or repair kit                         |

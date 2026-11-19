@@ -25,3 +25,9 @@
 [Combat: Visibility - Smoke and Fog](Combat/05.6-Other-Combat-Modifiers.md#Smoke-and-Fog)
 
 [Combat: Weapon Handling](Combat/05.6-Other-Combat-Modifiers.md#Weapon-Handling)
+
+[Explosives: Placing](Combat/05.5-Area-Effects.md#Placing-an-Explosive)
+
+[Explosives: Power Levels](Combat/05.5-Area-Effects.md#Explosive-Power-Levels)
+
+[Explosives: Types](Combat/05.5-Area-Effects.md#Types-of-Ranged-Explosive)

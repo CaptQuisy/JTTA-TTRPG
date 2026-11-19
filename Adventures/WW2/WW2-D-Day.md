@@ -231,6 +231,7 @@ Characters need to roll a RES/Athletics Saving throw of difficult (3 successes) 
 | 4   | Fragmentation grenades, smoke grenades, TNT blocks, Composition C, demolition charges                                               |
 | 5   | Extra M1 rifle clips, carbine magazines, Thompson magazines, BAR magazines                                                          |
 | 6+  | Roll again, and also on Advanced Loss Table\*                                                                                       |
+
 *\* Only once*
 
 ###### Advanced Lost Table

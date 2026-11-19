@@ -3,6 +3,7 @@
    
 - **Adventures**
   - [WW2 D-Day Broken Causeway](Adventures/WW2/WW2-D-Day.md)
+  - [Ww2 Soldiers](Adventures/WW2/WW2-Soldiers.md)
 
 - **Rules Reference**
   - [Character Creation](Character/02.0-Character-Creation.md)

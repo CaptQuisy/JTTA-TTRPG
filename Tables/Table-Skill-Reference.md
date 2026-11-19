@@ -28,8 +28,3 @@ The following table summarizes the **15 Basic Skills** including their default 
 
 **Maximum Starting Skill Level:** 5.
 
-**Skill Checks:** Roll a number of six-sided dice equal to the appropriate Attribute + Skill Level + applicable modifiers. Each result of 5 or 6 counts as one success.
-
-**Variable Attributes:** Skills listing two Attributes use whichever is most appropriate to the action, as determined by the Game Master.
-
-**Example:** Climbing a steep cliff might use STR + Athletics, while maintaining balance on a narrow ledge might use DEX + Athletics.

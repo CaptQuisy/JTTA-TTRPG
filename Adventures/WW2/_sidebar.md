@@ -5,7 +5,7 @@
   - [Broken Causeway Summary](Adventures/WW2/BrokenCausewaySummary.md)
   - [WW2 D-Day Broken Causeway](Adventures/WW2/WW2-D-Day.md)
   - [WW2 Soldiers](Adventures/WW2/WW2-Soldiers.md)
-  - [QuickStar](Adventures/JTTA_QuickStart.md)
+  - [QuickStart](Adventures/JTTA_QuickStart.md)
 
 - **Rules Reference**
   - [Character Creation](Character/02.0-Character-Creation.md)

@@ -22,6 +22,10 @@ You can access this SRD via HTML at https://captquisy.github.io/JTTA-TTRPG/#
 
 Or at https://github.com/CaptQuisy/JTTA-TTRPG
 
+### Quick Start
+
+You can find a Quick Start document in the Adventures folder along the WWW2 Broken Causeway adventure.
+
 ## Open Gaming License
 
 The designated open rules content is released under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.

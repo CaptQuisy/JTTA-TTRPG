@@ -3,7 +3,7 @@
    
 - **Adventures**
   - [Broken Causeway Summary](Adventures/WW2/BrokenCausewaySummary.md)
-  - [QuickStart](JTTA_QuickStart.md)
+  - [QuickStart](../JTTA_QuickStart.md)
 
 - **Rules Reference**
   - [Character Creation](Character/02.0-Character-Creation.md)

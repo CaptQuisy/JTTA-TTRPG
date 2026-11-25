@@ -20,6 +20,7 @@
          
 - **Adventures**
   - [WW2 D-Day Broken Causeway](Adventures/WW2/WW2-D-Day.md)
-    
+  - [QuickStart](Adventures/JTTA_QuickStart.md)
+      
 - **Additional Information**
   - [Licensing](Credits-and-Legal.md)

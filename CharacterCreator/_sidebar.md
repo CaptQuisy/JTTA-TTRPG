@@ -4,9 +4,10 @@
  
 - **Character Creator**
   - [Read Me](CharacterCreator/README-v1.2.md)
-  - [Character Creator](CharacterCreator/JTTA-Character-Creator/index.html ':ignore' :target= blank')
-   
-- **Rules Reference**
+  - [Character Creator](CharacterCreator/JTTA-Character-Creator/index.html ':ignore :target= blank')
+  - [Download Offline Character Creator](https://captquisy.github.io/JTTA-TTRPG/downloads/JTTA-Character-Creator-v1.2.zip ':ignore')
+    
+  - **Rules Reference**
   - [Character Creation](Character/02.0-Character-Creation.md)
   - [Core Rules](Core/04.0-Core-Rules.md)
   - [Combat](Combat/05.0-Combat.md)

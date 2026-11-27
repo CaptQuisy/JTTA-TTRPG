@@ -2,9 +2,6 @@
 - **Journey Through the Ages**
   - [Welcome to Journey Through The Ages](01.0-Welcome-to-Journey-Through-The-Ages.md)
    
-- **Character Creator**
-  - [Start Here](CharacterCreator/README-v1.2.md)
-
 - **Rules Reference**
   - [Character Creation](Character/02.0-Character-Creation.md)
     - [Attributes](Character/02.1-Attributes.md)
@@ -28,7 +25,9 @@
   - [Equipment](Equipment/03.0-Equipment.md)
   - [Vehicles](Vehicles/03.4-Vehicles.md)
   - [Tables](Tables/Tables.md)
-    
+
+- **Character Creator**
+  - [Start Here](CharacterCreator/README-v1.2.md)
 
 - **Adventures**
   - [WW2 D-Day Broken Causeway](Adventures/WW2/BrokenCausewaySummary.md)

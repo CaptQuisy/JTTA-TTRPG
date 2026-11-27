@@ -4,7 +4,7 @@
  
 - **Character Creator**
   - [Read Me](CharacterCreator/README-v1.2.md)
-  - [Character Creator](CharacterCreator/JTTA-Character-Creator/index.html)
+  - [Character Creator](CharacterCreator/JTTA-Character-Creator/index.html ':ignore' :target= blank')
    
 - **Rules Reference**
   - [Character Creation](Character/02.0-Character-Creation.md)

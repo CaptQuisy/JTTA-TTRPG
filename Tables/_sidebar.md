@@ -24,7 +24,10 @@
   - [Equipment](Equipment/03.0-Equipment.md)
   - [Chases](Chases/10.0-Chases.md)
   - [Vehicles](Vehicles/03.4-Vehicles.md)
-    
+ 
+- **Character Creator**
+  - [Start Here](CharacterCreator/README-v1.2.md)
+        
 - **Adventures**
   - [WW2 D-Day Broken Causeway](Adventures/WW2/BrokenCausewaySummary.md)
   - [QuickStart](Adventures/JTTA_QuickStart.md)

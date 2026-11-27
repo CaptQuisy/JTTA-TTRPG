@@ -4,7 +4,7 @@
  
 - **Character Creator**
   - [Read Me](CharacterCreator/README-v1.2.md)
-  - [Character Creator](CharacterCreator/JTTA-Character-Creator/index.html ':ignore :target= blank')
+  - [Online Character Creator](CharacterCreator/JTTA-Character-Creator/index.html ':ignore :target= blank')
   - [Download Offline Character Creator](https://captquisy.github.io/JTTA-TTRPG/CharacterCreator/JTTA-Character-Creator-v1.2.zip ':ignore')
     
 - **Rules Reference**

@@ -3,9 +3,7 @@
   - [Welcome to Journey Through The Ages](01.0-Welcome-to-Journey-Through-The-Ages.md)
    
 - **Character Creator**
-  - [Read Me](CharacterCreator/README-v1.2.md)
-  - [Character Creator](CharacterCreator/JTTA-Character-Creator/index.html ':ignore :target= blank')
-  - [Download Offline Character Creator](https://captquisy.github.io/JTTA-TTRPG/CharacterCreator/JTTA-Character-Creator-v1.2.zip ':ignore')
+  - [Start Here](CharacterCreator/README-v1.2.md)
 
 - **Rules Reference**
   - [Character Creation](Character/02.0-Character-Creation.md)

@@ -16,5 +16,8 @@
   - [Equipment](Equipment/03.0-Equipment.md)
   - [Tables](Tables/Tables.md)
 
+- **Character Creator**
+  - [Start Here](CharacterCreator/README-v1.2.md)
+    
 - **Additional Information**
   - [Licensing](Credits-and-Legal.md)
